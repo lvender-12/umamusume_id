@@ -1,0 +1,63 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Fu……Not first place, it seems."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Speaking as an honors student, I'd say\nit's not so bad."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Well, everyone fought very well this\ntime! Indeed, they did!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "As class president, I'm happy to see\nthat your sweat and tears have been\nrewarded!",
+            "choice_data_list": [
+                "Bakushin O did her best, too!",
+                "Is that really all you want?",
+                "Is that really all you want?"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "As class president, I'm happy to see\nthat your sweat and tears have been\nrewarded!",
+            "choice_data_list": [
+                "Bakushin O did her best, too!",
+                "Is that really all you want?",
+                "Is that really all you want?"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Indeed, I did my best. \nI did my best, too……"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Howeveeeer! It is my solemn duty to be \nfirst place, even when everyone else is \nworking so hard!!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "As class president, I just have to be\nthe first one to reach the goal so I can\nproperly welcome everyone!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Next time, every last one of my rivals! \nI'll be there to greet you at the goal!!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "It is not!!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "King of Speed Award! The King of\nExemplary Figures award must go to me!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Next time, I shall aim for an exemplary\nand complete victory…… Alright, now!\nBakushiiiiiii――n！！！！！"
+        }
+    ]
+}

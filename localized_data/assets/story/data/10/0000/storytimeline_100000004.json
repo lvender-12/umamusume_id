@@ -1,0 +1,45 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One, two, three… and rest!!",
+            "name": "Winning Ticket"
+        },
+        {
+            "text": "Woooh!! We did it!!! \nWe're so amazing!!!",
+            "name": "Winning Ticket"
+        },
+        {
+            "text": "Yeah yeah. Anyways, are you gonna do that crap after every song? \nCome on, let's move on to the next one.",
+            "name": "Narita Taishin"
+        },
+        {
+            "text": "I'm glad to see that the two of you are so motivated. \nLet us continue putting in effort until the anniversary \nlive concert is held.",
+            "name": "Biwa Hayahide"
+        },
+        {
+            "text": "Yup!! Let's do our best, TAISHIN!!",
+            "name": "Winning Ticket"
+        },
+        {
+            "text": "I'm not that motivated…",
+            "name": "Narita Taishin"
+        },
+        {
+            "text": "Wow, BNW looks so motivated! However, our group, Robot, Rose, and \nIinchou (Class Representative), won't lose to them!",
+            "name": "Sakura Bakushin O"
+        },
+        {
+            "text": "B-Bourbon-san, is this really okay? \nIs it really okay… to call you a robot…!?",
+            "name": "Rice Shower"
+        },
+        {
+            "text": "Status: acceptance. Rice-san, I have determined that my epithet \nmatches with your epithet of \"rose\" in that it succinctly \ndescribes our personalities in one word.",
+            "name": "Mihono Bourbon"
+        },
+        {
+            "text": "Okay you two, let's go!! \nRRI, GO!!",
+            "name": "Sakura Bakushin O"
+        }
+    ]
+}

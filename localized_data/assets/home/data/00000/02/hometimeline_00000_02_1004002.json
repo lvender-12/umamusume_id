@@ -1,0 +1,45 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Grass Wonder",
+            "text": "Thank you, Maruzen-san, for \nbuying me a drink."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "No worries! I just wanted to thank you\nfor being down with my drive-date the\nother day."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "So, how did you fare? All smooth?"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Hehe, indeed. The frustrations that \nhave haunted me lately… seems to have \nblown away in the wind."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Hmm hmm, that's good to know!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "… I knew it. I think we \nhave a lot in common."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "So…! If you're ever bugged out again, \nhit me up for a drive! Cool?♪"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Hehe… Yes, I will remember…"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "As I'm always in your debt, allow me to \ninvite you to a tea party sometime."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Absolutely okey-dokey with me! \nDrop me an invite any time☆"
+        }
+    ]
+}

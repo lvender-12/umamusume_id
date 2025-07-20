@@ -1,0 +1,255 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Mihono Bourbon leads with four horse lengths! \nSurely she will win this race!",
+            "name": "Commentator"
+        },
+        {
+            "text": "Mihono Bourbon is still ahead! She held on for 2400m \nand finishes first! Six races and all six won! \nShe's undefeated now one more crown to go!",
+            "name": "Commentator"
+        },
+        {
+            "text": "Rice Shower finished 2nd in the Nippon Derby. \nDespite failing to defeat Mihono Bourbon, she made \nincredible progress in the run-up to the race"
+        },
+        {
+            "text": "A few days after the race, I find myself \nat a certain theme park in Chiba prefecture..."
+        },
+        {
+            "text": "Whoa! This must be <i>that</i> well-known theme park! \nWith the princess who lives in the castle, and the \n<i>Big Lightning Mountain</i>!",
+            "name": "Rice Shower"
+        },
+        {
+            "text": "I wanted to take her to the theme park she'd been wanting \nto go to, as a reward for her hard work. Although..."
+        },
+        {
+            "text": "Wow, it's a lot less busy than I expected. \nHehe, we're lucky today!",
+            "name": "Rice Shower"
+        },
+        {
+            "text": "Um, Trainer... She really believes we're at \n<i>that</i> theme park...",
+            "name": "Mejiro McQueen"
+        },
+        {
+            "text": "Whilst looking at the extatic Rice Shower, \nMejiro McQueen whispers into my ear."
+        },
+        {
+            "text": "I know you are tight on money this month, \nbut really? A different park?",
+            "name": "Mejiro McQueen"
+        },
+        {
+            "text": "I, well...",
+            "name": "<username>"
+        },
+        {
+            "text": "I, well...",
+            "name": "<username>"
+        },
+        {
+            "text": "Come on, McQueen! Word is that there's a secret \nunderground attraction. We gotta check if it's real!",
+            "name": "Gold Ship"
+        },
+        {
+            "text": "Hold on! That's the employee entrance, you doofus!",
+            "name": "Mejiro McQueen"
+        },
+        {
+            "text": "Come, Trainer! Let's go!",
+            "name": "Rice Shower"
+        },
+        {
+            "text": "Ah, yes...",
+            "name": "<username>"
+        },
+        {
+            "text": "And so, several hours passed in the blink of an eye \nat the fun (?) theme park."
+        },
+        {
+            "text": "We managed to ride on pretty much every attraction! \nI'm glad there were so few people here today.",
+            "name": "Rice Shower"
+        },
+        {
+            "text": "Seeing her so happy in her ignorance... \nI feel so guilty."
+        },
+        {
+            "text": "Um... Trainer...",
+            "name": "Rice Shower"
+        },
+        {
+            "text": "I still wanted to ride in the ferris wheel... \nWould you... join me?",
+            "name": "Rice Shower"
+        },
+        {
+            "text": "...So guilty, I could almost vomit! \nOf course, I can't decline her request \nif it makes her happy.",
+            "choice_data_list": [
+                ""
+            ]
+        },
+        {
+            "text": "Ehehe... Hooray.",
+            "name": "Rice Shower"
+        },
+        {
+            "text": ""
+        },
+        {
+            "text": "",
+            "name": "Rice Shower"
+        },
+        {
+            "text": "",
+            "choice_data_list": [
+                ""
+            ]
+        },
+        {
+            "text": "",
+            "name": "Rice Shower"
+        },
+        {
+            "text": "",
+            "name": "Rice Shower"
+        },
+        {
+            "text": "",
+            "name": "Rice Shower",
+            "choice_data_list": [
+                "",
+                ""
+            ]
+        },
+        {
+            "text": "",
+            "name": "Rice Shower"
+        },
+        {
+            "text": "",
+            "name": "Rice Shower"
+        },
+        {
+            "text": "",
+            "name": "Rice Shower"
+        },
+        {
+            "text": ""
+        },
+        {
+            "text": ""
+        },
+        {
+            "text": "",
+            "name": "Rice Shower"
+        },
+        {
+            "text": "",
+            "name": "Rice Shower"
+        },
+        {
+            "text": "",
+            "name": "<username>"
+        },
+        {
+            "text": "",
+            "name": "<username>"
+        },
+        {
+            "text": "",
+            "name": "Rice Shower"
+        },
+        {
+            "text": "",
+            "name": "Gold Ship"
+        },
+        {
+            "text": "",
+            "name": "Rice Shower"
+        },
+        {
+            "text": "",
+            "name": "Rice Shower",
+            "choice_data_list": [
+                "",
+                ""
+            ]
+        },
+        {
+            "text": "",
+            "name": "Mejiro McQueen"
+        },
+        {
+            "text": "",
+            "name": "Mejiro McQueen"
+        },
+        {
+            "text": "",
+            "name": "<username>"
+        },
+        {
+            "text": ""
+        },
+        {
+            "text": "",
+            "name": "Mejiro McQueen"
+        },
+        {
+            "text": "",
+            "name": "Rice Shower"
+        },
+        {
+            "text": "",
+            "name": "Gold Ship"
+        },
+        {
+            "text": "",
+            "name": "Horsegirl with Straight-cut Bangs"
+        },
+        {
+            "text": "",
+            "name": "<username>"
+        },
+        {
+            "text": "",
+            "name": "<username>"
+        },
+        {
+            "text": "",
+            "name": "<username>"
+        },
+        {
+            "text": "",
+            "name": "<username>"
+        },
+        {
+            "text": "",
+            "name": "Gold Ship"
+        },
+        {
+            "text": "",
+            "name": "<username>"
+        },
+        {
+            "text": "",
+            "name": "<username>"
+        },
+        {
+            "text": "",
+            "name": "Gold Ship"
+        },
+        {
+            "text": ""
+        },
+        {
+            "text": ""
+        },
+        {
+            "text": ""
+        },
+        {
+            "text": "",
+            "name": "Rice Shower"
+        },
+        {
+            "text": ""
+        }
+    ]
+}

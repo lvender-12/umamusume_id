@@ -1,0 +1,33 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Bitter Glasse",
+            "text": "Aah! I'm so… bitter!"
+        },
+        {
+            "name": "Bitter Glasse",
+            "text": "But well… you ran well. I can accept\ndefeat!"
+        },
+        {
+            "name": "Bitter Glasse",
+            "text": "Congratulations, on your win!"
+        },
+        {
+            "name": "Bitter Glasse",
+            "text": "… A'ight! I'm going home to work out!\nStarting with 100 tire pulls!"
+        },
+        {
+            "name": "Little Cocon",
+            "text": "… It's true, I wasn't strong enough\ntoday."
+        },
+        {
+            "name": "Little Cocon",
+            "text": "But I won't lose next time. \nIndividually, or in the Aoharu Hai."
+        },
+        {
+            "name": "Little Cocon",
+            "text": "I'll see you then. Congratulations\non your victory."
+        }
+    ]
+}

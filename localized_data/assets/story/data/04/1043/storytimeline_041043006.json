@@ -1,0 +1,234 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "On a day off, I took Shinko Windy to the zoo."
+        },
+        {
+            "text": "Crocodiles! Hippos! Gorillas! \nC'mon, c'mon, let's hurry and go meet 'em all!",
+            "name": "Shinko Windy"
+        },
+        {
+            "text": "All of them have bite strength that's the strongest! \nFeeding-time, especially, is a must-see!",
+            "name": "Shinko Windy"
+        },
+        {
+            "text": "C'mon, we gotta hurry! \nWe definitely have to see them at their best!!",
+            "name": "Shinko Windy"
+        },
+        {
+            "text": "Uooooooh! Look at that! The power of that croc! \nGnawing on that with its big jaws!!",
+            "name": "Shinko Windy"
+        },
+        {
+            "text": "Those teeth are amazing～! \nIf it got you with those, you wouldn't stand a chance～!",
+            "name": "Visitor A"
+        },
+        {
+            "text": "Muu.",
+            "name": "Shinko Windy"
+        },
+        {
+            "text": "……If Windy-chan bit you, it would be crazy too!",
+            "name": "Shinko Windy"
+        },
+        {
+            "text": "The way it chomps with that big mouth is cute too～!",
+            "name": "Visitor A"
+        },
+        {
+            "text": "But look at how it can stand in the water～. \nThat's kinda cute too～!",
+            "name": "Visitor B"
+        },
+        {
+            "text": "Mumumu-! \nJust focusing on them, it's not fair!",
+            "name": "Shinko Windy"
+        },
+        {
+            "text": "When it comes to bite strength, even Windy-chan can too……!",
+            "name": "Shinko Windy"
+        },
+        {
+            "text": "Gradually, Shinko Windy's mood was worsening. \nAt this rate, it could be bad……!"
+        },
+        {
+            "text": "Goat King, looks like there aren't many \nvisitors coming to see you this time either.",
+            "name": "Zookeeper"
+        },
+        {
+            "text": "Meeeeh……",
+            "name": "Goat King"
+        },
+        {
+            "text": "……What's that? \nHe's taking the goat for a walk.",
+            "name": "Shinko Windy",
+            "choice_data_list": [
+                "A meet-and-greet maybe?"
+            ]
+        },
+        {
+            "text": "Ahaha…… if you'd like, please play with him. He's really cute, \nbut lately he hasn't been getting much attention……",
+            "name": "Zookeeper"
+        },
+        {
+            "text": "……You, come with me for a bit.",
+            "name": "Shinko Windy"
+        },
+        {
+            "text": "And like this, then that, \nand then to finish it off……",
+            "name": "Shinko Windy"
+        },
+        {
+            "text": "Naa haa haa haa, how's that!? \nI triple braided his beard!",
+            "name": "Shinko Windy",
+            "choice_data_list": [
+                "Don't do that, Windy!"
+            ]
+        },
+        {
+            "text": "Hmph! He can't get any attention because of his lame face! \nBut Windy-chan is different!",
+            "name": "Shinko Windy"
+        },
+        {
+            "text": "Just watch, now I'm going to pull an amazing \nprank that'll get all of their attention!",
+            "name": "Shinko Windy"
+        },
+        {
+            "text": "Shinko Windy made that declaration before the goat. Maybe because \nshe can relate to his troubles, she seemed reliable――"
+        },
+        {
+            "text": "I had a sudden thought. Can't we use Windy's creativity here? \nHer prank seemed a little short-sighted, so maybe――"
+        },
+        {
+            "text": "Huh? What do you mean? \nHave the Goat King help with the prank……?",
+            "name": "Shinko Windy",
+            "choice_data_list": [
+                "He wants to stand out too"
+            ]
+        },
+        {
+            "text": "Hmmm, I guess so…… \nIt does feel good to pull pranks.",
+            "name": "Shinko Windy"
+        },
+        {
+            "text": "Alright, hope you're ready, Goat King! \nWindy-chan's prank will be unforgettable!",
+            "name": "Shinko Windy"
+        },
+        {
+            "text": "Meh- meeeeh?",
+            "name": "Goat King"
+        },
+        {
+            "text": "Now, where should I go next? \nSeems like giraffes and rhinoes are over there――",
+            "name": "Visitors"
+        },
+        {
+            "text": "Waah Haa Haa Haa!!",
+            "name": "Shinko Windy"
+        },
+        {
+            "text": "Goat King! All of your food has fallen in \nto the possession of me, Windy-sama!!",
+            "name": "Shinko Windy",
+            "choice_data_list": [
+                "<size=37>How dastardly! As expected of Windy-sama!</size>"
+            ]
+        },
+        {
+            "text": "That girl, I only took my eyes off it for a moment……! \nI'm sorry Goat King!",
+            "name": "Zookeeper"
+        },
+        {
+            "text": "――W-what are they doing!? \n――They're standing near that cliff!",
+            "name": "Visitors"
+        },
+        {
+            "text": "――They took that goat's food? \n――How sad……!",
+            "name": "Visitors"
+        },
+        {
+            "text": "Haaa haa haa! \nToo bad for you, Goat King!",
+            "name": "Shinko Windy"
+        },
+        {
+            "text": "If only you had more power, you could take it back, huh? \nBeing so weak must be frustrating～.",
+            "name": "Shinko Windy"
+        },
+        {
+            "text": "Meeh…… Meeeeeh……",
+            "name": "Goat King"
+        },
+        {
+            "text": "Meeeeeeeeeeeeh!!!!",
+            "name": "Goat King"
+        },
+        {
+            "text": "Uooh!? That goat is climbing the cliff!",
+            "name": "Visitor C"
+        },
+        {
+            "text": "Doing that so suddenly, is he okay?!",
+            "name": "Visitor A"
+        },
+        {
+            "text": "Wha-!? He's actually climbing…… Ahem! \nWhat amazing leg strength you have!",
+            "name": "Shinko Windy"
+        },
+        {
+            "text": "Hmmm, I'll let you join Windy-chan's gang! \nHere's your reward!",
+            "name": "Shinko Windy"
+        },
+        {
+            "text": "――The Goat King is amazing! \n――Windy-chan, you knew this was going to happen?",
+            "name": "Visitors"
+        },
+        {
+            "text": "――That was fun! \n――Do it again!",
+            "name": "Visitors"
+        },
+        {
+            "text": "Again, you say!? \nWahahaha! Guess it can't be helped～!",
+            "name": "Shinko Windy"
+        },
+        {
+            "text": "Next I'll show you Windy-chan's power! \nGoat King, show them something even more amazing!",
+            "name": "Shinko Windy"
+        },
+        {
+            "text": "Meeeeeh! Meeeeeh!",
+            "name": "Goat King"
+        },
+        {
+            "text": "Kuuu～～～～～! \nThat felt real good, huhーー!!",
+            "name": "Shinko Windy"
+        },
+        {
+            "text": "Really, thank you very much! \nThe Goat King was able to get more visitors, and he seemed happy!",
+            "name": "Zookeeper",
+            "choice_data_list": [
+                "Glad we could help"
+            ]
+        },
+        {
+            "text": "See ya later, Goat King! \nYou've finally got your chance, make the best of it!",
+            "name": "Shinko Windy"
+        },
+        {
+            "text": "We left the zoo and made our way back to the school. On the way \nback, Shinko Windy would occasionally look up at the sky."
+        },
+        {
+            "text": "……It seems like everyone came, huh?",
+            "name": "Shinko Windy"
+        },
+        {
+            "text": "Windy-chan was amazing…… But that's a given. \nThat's how it is normally. ……But……",
+            "name": "Shinko Windy"
+        },
+        {
+            "text": "……pranks, huh.",
+            "name": "Shinko Windy"
+        },
+        {
+            "text": "Seeing her profile in the sunset, \nshe seemed more mature than usual."
+        }
+    ]
+}

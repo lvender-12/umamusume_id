@@ -1,0 +1,288 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "A few weeks passed since I started helping \nMihono Bourbon train in secret."
+        },
+        {
+            "text": "*huff huff*",
+            "name": "Mihono Bourbon",
+            "choice_data_list": [
+                "Hang on! You're almost there!",
+                "Hang on! You're almost there!"
+            ]
+        },
+        {
+            "text": "Hng!",
+            "name": "Mihono Bourbon"
+        },
+        {
+            "text": "*pant pant* \nThat's... a new record!",
+            "name": "Mihono Bourbon",
+            "choice_data_list": [
+                "Well done!",
+                "Well done!"
+            ]
+        },
+        {
+            "text": "I appreciate your encouragement. \nWhen my stamina recovers, I will checkout the lactic acid \ntolerance branch... And proceed towards the slope.",
+            "name": "Mihono Bourbon",
+            "choice_data_list": [
+                "Let's try one more run today."
+            ]
+        },
+        {
+            "text": "Advice recognized. Input parsed. \nFlowchart updated. Added one more run up the slope.",
+            "name": "Mihono Bourbon"
+        },
+        {
+            "text": "Energy recovered. Proceding to run up the slope.",
+            "name": "Mihono Bourbon"
+        },
+        {
+            "text": "So far, she has not once complained about my \ndifficult training. She acts like it's nothing.",
+            "choice_data_list": [
+                "(She might actually be able to...)"
+            ]
+        },
+        {
+            "text": "Before I knew it, her total determination had captured me.",
+            "choice_data_list": [
+                "(You can do it, Mihono Bourbon!)"
+            ]
+        },
+        {
+            "text": "*huff huff*",
+            "name": "Mihono Bourbon"
+        },
+        {
+            "text": "I realized that with enough time, she might actually \nbe able to partake in medium and long races. \nBut then..."
+        },
+        {
+            "text": "So you're the trainer who let her do long-distance \ntraining behind my back?",
+            "name": "Veteran Trainer"
+        },
+        {
+            "text": "Mihono Bourbon's real trainer called me over after \nhe realized what happened. Her behavior \nduring trainings had changed over time."
+        },
+        {
+            "text": "Master, the nightly trainings were all my own decision. \nThus, this person has no relation to it.",
+            "name": "Mihono Bourbon"
+        },
+        {
+            "text": "He was with you every night, of course he's related to it! \nAt the very least, he pitied you and watched.",
+            "name": "Veteran Trainer",
+            "choice_data_list": [
+                "I wasn't pitying..."
+            ]
+        },
+        {
+            "text": "She's told me about the Triple Crown many times, \nbut I can't have her take any risks! You're a trainer, \nso you must understand that as well.",
+            "name": "Veteran Trainer"
+        },
+        {
+            "text": "Even so, I joined this academy to attain the Triple Crown. \nI have no intention of altering my objective.",
+            "name": "Mihono Bourbon"
+        },
+        {
+            "text": "Mihono Bourbon's trainer released a deep sigh \nafter hearing her stubborn response."
+        },
+        {
+            "text": "*sigh* Okay, you get one more chance to show you're \ncapable of it. Show me you can run run 3 kilometers, \nlike the Kikka Sho. Right now.",
+            "name": "Veteran Trainer",
+            "choice_data_list": [
+                "(What is he saying?!)"
+            ]
+        },
+        {
+            "text": "Understood.",
+            "name": "Mihono Bourbon",
+            "choice_data_list": [
+                "?!"
+            ]
+        },
+        {
+            "text": "I will persuade you.",
+            "name": "Mihono Bourbon"
+        },
+        {
+            "text": "She quickly heads over to the race track and starts \non the 3000 meters. To be honest, I doubt she will \nbe able to complete it with her current stamina...",
+            "choice_data_list": [
+                "(Will she really make it...)"
+            ]
+        },
+        {
+            "text": "*huff huff*",
+            "name": "Mihono Bourbon"
+        },
+        {
+            "text": "(1600 meters passed. Lap time is good. 1400 meters left...) \n(Disturbance in breathing rhythm detected. Pace is decreasing \nand failing to keep consistency.)",
+            "name": "Mihono Bourbon"
+        },
+        {
+            "text": "Hng!",
+            "name": "Mihono Bourbon"
+        },
+        {
+            "text": "Just like I thought. Her pace slowed after 2 kilometers and \nshe was barely able to walk when she crossed the finish line."
+        },
+        {
+            "text": "*huff huff*",
+            "name": "Mihono Bourbon"
+        },
+        {
+            "text": "See? Give up already. It's a waste of time to continue. \nYou're not cut out for longer race distances.",
+            "name": "Veteran Trainer",
+            "choice_data_list": [
+                "(Truthfully, she isn't. But still...)"
+            ]
+        },
+        {
+            "text": "I've seen her willingness to train for the Triple Crown. \nI know how determined she is to reach it.",
+            "choice_data_list": [
+                "<size=40>Why won't you let her follow her dreams?</size>"
+            ]
+        },
+        {
+            "text": "<i>She</i> is the one who would suffer through her own bad \ndecision to go after something she's not cut out for. \nWhat do you not understand about that?",
+            "name": "Veteran Trainer",
+            "choice_data_list": [
+                "I just..."
+            ]
+        },
+        {
+            "text": "Stop, I don't want to get into an argument with you. \nBourbon, I need to know how you really feel, \nnow that you've tried running that 3 kilometers.",
+            "name": "Veteran Trainer"
+        },
+        {
+            "text": "<i>How I really feel</i>...",
+            "name": "Mihono Bourbon"
+        },
+        {
+            "text": "She looked confused, but then started speaking."
+        },
+        {
+            "text": "I my goal of the Triple Crown is hardcoded... \nI apologize....",
+            "name": "Mihono Bourbon"
+        },
+        {
+            "text": "So please, Master...",
+            "name": "Mihono Bourbon"
+        },
+        {
+            "text": "...",
+            "name": "Veteran Trainer"
+        },
+        {
+            "text": "I see. Then I will let you do what you wish... \nOn the condition that we end our contract \nright here, right now.",
+            "name": "Veteran Trainer"
+        },
+        {
+            "text": "...... \nI accept your proposal.",
+            "name": "Mihono Bourbon"
+        },
+        {
+            "text": "To think you were so foolish... \nYou disappoint me, Bourbon.",
+            "name": "Veteran Trainer"
+        },
+        {
+            "text": "Mihono Bourbon's trainer left the race course \nwithout saying another word after that.."
+        },
+        {
+            "text": "...",
+            "name": "Mihono Bourbon",
+            "choice_data_list": [
+                "Are you okay after all that?"
+            ]
+        },
+        {
+            "text": "Due to the loss of my Master, I have entered \na state best described as 'bewildered.'",
+            "name": "Mihono Bourbon"
+        },
+        {
+            "text": "Even after all that nighttime training, I still \nwasn't able to complete a 3000 meter run.",
+            "name": "Mihono Bourbon"
+        },
+        {
+            "text": "My objective for the Triple Crown is a constant. \nAnd yet, I'm starting to doubt whether it was \nthe correct choice.",
+            "name": "Mihono Bourbon",
+            "choice_data_list": [
+                "Of course it's the right choice!"
+            ]
+        },
+        {
+            "text": "She managed to train hard every day without complaining. \nBut more importantly, she has an immense passion for it."
+        },
+        {
+            "text": "A burning passion to attain the Triple Crown!",
+            "choice_data_list": [
+                "<size=40>I support you, no matter what others say!</size>",
+                "<size=40>I support you, no matter what others say!</size>"
+            ]
+        },
+        {
+            "text": "...!",
+            "name": "Mihono Bourbon",
+            "choice_data_list": [
+                "I will help you fulfill your dream!",
+                "I will help you fulfill your dream!"
+            ]
+        },
+        {
+            "text": "Her eyes started to quiver a little."
+        },
+        {
+            "text": "You'll help...",
+            "name": "Mihono Bourbon",
+            "choice_data_list": [
+                "<size=43>I won't let you give up on your dream!</size>",
+                "<size=43>I won't let you give up on your dream!</size>"
+            ]
+        },
+        {
+            "text": "(Their gaze... It feels familiar.)",
+            "name": "Mihono Bourbon"
+        },
+        {
+            "text": "<i>*huff huff* *sniffle* \nI failed again, Father... I am just not...</i>",
+            "name": "Young Bourbon"
+        },
+        {
+            "text": "<i>You may not have enough stamina, yet you keep on trying. \nThat is why I know that one day, you will succeed.</i>",
+            "name": "Bourbon's Father"
+        },
+        {
+            "text": "<i>I will help you fulfill that dearest dream of yours!</i>",
+            "name": "Bourbon's Father"
+        },
+        {
+            "text": "(They remind me of my father...)",
+            "name": "Mihono Bourbon"
+        },
+        {
+            "text": "...",
+            "name": "Mihono Bourbon",
+            "choice_data_list": [
+                "...Mihono Bourbon?"
+            ]
+        },
+        {
+            "text": "I could not bear the silence and called out to her. \nShe stood there, quietly looking at me."
+        },
+        {
+            "text": "You customized my running style. The improvement \nof my 1600 meters record is all thanks to your skill.",
+            "name": "Mihono Bourbon"
+        },
+        {
+            "text": "I think reaching my objective might be \na possibility with your help.",
+            "name": "Mihono Bourbon"
+        },
+        {
+            "text": "So please, I want you to be my trainer... \n...My Master.",
+            "name": "Mihono Bourbon"
+        },
+        {
+            "text": "The right hand of this \"cyborg\" had a firm grip, \nyet also felt strangely comfortable and warm."
+        }
+    ]
+}

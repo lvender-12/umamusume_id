@@ -1,0 +1,35 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Yaaaaawwwnn～～～…"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Nn… I'm sorry, I was in a… meeting. \nAn intellectual evil… kind of situation.",
+            "choice_data_list": [
+                "Intellectual, evil…?"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Yes… Last night, the beverage that \nBakushins one's thoughts… \nCoffee, I drank too much of it."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "\"Stay sharp, keep that drowsiness away!\"\nthe label said… but I didn't expect it\nto go this far…"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Yaaaawn～… Trainer, please do be careful\naround coffee."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Only one cup, and it has this effect… …\nI'll… only get through half of the day\ntoday."
+        },
+        {
+            "text": "Perhaps because of her overly straight-\nlaced nature, Sakura Bakushin O was\nunable to sleep well after just one cup\nof coffee…"
+        }
+    ]
+}

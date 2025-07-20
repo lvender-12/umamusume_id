@@ -1,0 +1,20 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Hayakawa Tazuna",
+            "text": "Skills are an important factor to\nwinning races. Adding skills doesn't\nconsume your turns, so make sure to\ncheck and learn them often!",
+            "color_text_info_list": [
+                "important factor to winning"
+            ]
+        },
+        {
+            "name": "Chairwoman Akikawa",
+            "text": "Agreed. If you don't use the skill \npoints that you've gained, they'll \nbe a complete waste!"
+        },
+        {
+            "name": "Chairwoman Akikawa",
+            "text": "By all means! Choose the skills that\nmatch your horsegirl's abilities and the\nrequirements of the races she runs!"
+        }
+    ]
+}

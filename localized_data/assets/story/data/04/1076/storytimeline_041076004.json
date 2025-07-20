@@ -1,0 +1,205 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "My deam is――that \"rainbow\".",
+            "name": "Sakura Laurel"
+        },
+        {
+            "text": "Further beyond the strongest. To reach the end of \nthat rainbow. And what's at the end of that rainbow――",
+            "name": "Sakura Laurel"
+        },
+        {
+            "text": "――France. The place my parents met. \nAnd the country my dad is currently active in.",
+            "name": "Sakura Laurel"
+        },
+        {
+            "text": "That's the place I want to reach the top at. \nRight, just like my dad.",
+            "name": "Sakura Laurel"
+        },
+        {
+            "text": "Dad. Why are you trying to make the top brand? \nIf you didn't have work, then we could spend more time together.",
+            "name": "Young Laurel"
+        },
+        {
+            "text": "Laurel. Well, that's……because only those \nat the top can shine the brightest.",
+            "name": "Laurel's Father"
+        },
+        {
+            "text": "To make everyone the happiest, proudest, and bring \nthe most joy, you can't be anything but the best.",
+            "name": "Laurel's Father"
+        },
+        {
+            "text": "There are many people in the world. What the one at the top is \nable to accomplish can determine just how happy everyone can become.",
+            "name": "Laurel's Father"
+        },
+        {
+            "text": "That's why I can't stop. I want to improve my designs and \noperate in more countries and build the greatest brand.",
+            "name": "Laurel's Father"
+        },
+        {
+            "text": "Just like our brand's icon, the rainbow. \nHuge, and filled with colors.",
+            "name": "Laurel's Father"
+        },
+        {
+            "text": "I am--an Uma Musume. And for Uma Musume, \nthe pinnacle of Uma Musume. There's the greatest race.",
+            "name": "Sakura Laurel"
+        },
+        {
+            "text": "And I want to win there. No, I don't want to just win, \nI want to win in the greatest way possible.",
+            "name": "Sakura Laurel"
+        },
+        {
+            "text": "That's my dream. And everyone's happiness. \nThe place my dad is aiming for, and that I am too――the sky.",
+            "name": "Sakura Laurel",
+            "choice_data_list": [
+                "Which……race is that?"
+            ]
+        },
+        {
+            "text": "One that everyone knows about and aspires to. \nHeld west of Paris along the Seine river. A race \ncourse said to be the most beautiful in the world……",
+            "name": "Sakura Laurel"
+        },
+        {
+            "text": "And in the entire history of Tracen Academy, \nnobody has won. What could truly be called the \ngreatest international G1. Its name is――",
+            "name": "Sakura Laurel"
+        },
+        {
+            "text": "The Prix de l'Arc de Triomphe.",
+            "name": "Sakura Laurel"
+        },
+        {
+            "text": "『Legs of Glass』…… \nThe impression of her being weak disappeared."
+        },
+        {
+            "text": "This Uma Musume, Sakura Laurel, \nhad no intention of settling for a lesser dream……"
+        },
+        {
+            "text": "She was aiming to 『Fulfill』 the biggest dream. With a strong desire \nto show 『I can fulfill it』. Straight-forwardly chasing after it."
+        },
+        {
+            "text": "……Seeing that desire drew me to her. \nAnd before I realized it――I said aloud.",
+            "choice_data_list": [
+                "I want to see that dream……together"
+            ]
+        },
+        {
+            "text": "……? Trainer-san?",
+            "name": "Sakura Laurel",
+            "choice_data_list": [
+                "I want to fulfill that dream together!"
+            ]
+        },
+        {
+            "text": "Ah……Thank you very much! But……",
+            "name": "Sakura Laurel"
+        },
+        {
+            "text": "If you really feel that way, it'll be a while…… \nwould you be willing to wait several seasons for that?",
+            "name": "Sakura Laurel",
+            "choice_data_list": [
+                "Several seasons?"
+            ]
+        },
+        {
+            "text": "Yes. My dream won't change. \nBut, as you've already seen……",
+            "name": "Sakura Laurel"
+        },
+        {
+            "text": "……………………",
+            "name": "Narita Brian"
+        },
+        {
+            "text": "How was it Brian? The match ended up as a victory for me but, \nwas there any other Uma Musume who caught your eye?",
+            "name": "Hishi Amazon"
+        },
+        {
+            "text": "……No. There was noone like that.",
+            "name": "Narita Brian"
+        },
+        {
+            "text": "I can't really run! Well――",
+            "name": "Sakura Laurel"
+        },
+        {
+            "text": "There isn't anyone like that. Well――",
+            "name": "Narita Brian"
+        },
+        {
+            "text": "――At least, not yet! \n――At least, not yet.",
+            "name": "Laurel & Brian"
+        },
+        {
+            "text": "Spring hadn't arrived yet. \nIt would be a while, but eventually Spring would arrive."
+        },
+        {
+            "text": "And time passed――"
+        },
+        {
+            "text": "Have you heard, Bakushin O-san? \nLaurel-san turned down another offer from a famous trainer.",
+            "name": "Sakura Chiyono O"
+        },
+        {
+            "text": "Oooh, is that so……!? But, I'm pretty sure her \ncondition has improved quite a lot since then.",
+            "name": "Sakura Bakushin O"
+        },
+        {
+            "text": "The second time I met that Uma Musume was―― \nUnder rows of cherry blossoms in full bloom."
+        },
+        {
+            "text": "……Hello, Trainer-san. \nWe're always under your care.",
+            "name": "Sakura Laurel",
+            "choice_data_list": [
+                "Do you have a trainer yet?",
+                "Do you have a trainer yet?"
+            ]
+        },
+        {
+            "text": "No, not yet. \nI was thinking of recruiting one right about now.",
+            "name": "Sakura Laurel"
+        },
+        {
+            "text": "In that case――",
+            "choice_data_list": [
+                "Will you form a contract with me?",
+                "Will you form a contract with me?"
+            ]
+        },
+        {
+            "text": "Contract……?",
+            "name": "Sakura Laurel"
+        },
+        {
+            "text": "……Muuu, I refuse.",
+            "name": "Sakura Laurel",
+            "choice_data_list": [
+                "……Eh?"
+            ]
+        },
+        {
+            "text": "Calling it a contract……don't you think that's kind of distant? \nIsn't there a more fitting thing for us?",
+            "name": "Sakura Laurel"
+        },
+        {
+            "text": "Just think back. \nOn that day, the words we exchanged.",
+            "name": "Sakura Laurel"
+        },
+        {
+            "text": "……That's right. \nThose words from that day, once more…….",
+            "choice_data_list": [
+                "I want to fulfill that dream together!",
+                "I want to fulfill that dream together!"
+            ]
+        },
+        {
+            "text": "……Yes. I'm looking forward to it! \nI'm sorry for making you wait, Trainer-san♪",
+            "name": "Sakura Laurel"
+        },
+        {
+            "text": "That day, under the cherry blossoms in full bloom, \nSakura Laurel and I didn't make a \"contract\"……"
+        },
+        {
+            "text": "We vowed to make that dream come true, together."
+        }
+    ]
+}

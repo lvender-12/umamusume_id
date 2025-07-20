@@ -1,0 +1,278 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "The evening of the Selection Race which she \nhad not attended, I found Rice Shower weeping \nby a tree stump……"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "<i>Sob…</i> U-Um… I'm sorry… but… \nplease don't come any closer……",
+            "choice_data_list": [
+                "What's wrong?",
+                "What's wrong?"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "…… Being near me will only bring you misfortune again. \nBecause I'm such a good-for-nothing… I'll just end up \ncausing you more trouble……"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Even though I wanted to change myself… Even though \nI wanted to give it my all and participate in the race… \nin the end… I couldn't do a single thing!"
+        },
+        {
+            "text": "Seeing the crying girl in front of me, I couldn't help but \nremember the look of determination she had the other day."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "………… But even so, I have to keep doing my best!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Because I already decided that I would participate \nin the next Selection Race! I'll make sure to be there, \nrun well, and then……"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "I'm going to debut, compete in a lot of races…… \nI won't be a good-for-nothing anymore…!"
+        },
+        {
+            "text": "Even though I didn't know her full story, it was undeniable that \nshe was desperately trying to change. After all, I've witnessed \nher unwavering dedication and persistence to training firsthand."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "<i>Sniff</i>… I knew it… I knew it all along, I'm just…!"
+        },
+        {
+            "text": "…… I can't just leave her like this!",
+            "choice_data_list": [
+                "Rice Shower! Please let me coach you!",
+                "Rice Shower! Please let me coach you!"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Huh…?"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Coach me? You mean… you want to become my trainer?",
+            "choice_data_list": [
+                "If you're fine with that!",
+                "If you're fine with that!"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "O-Of course! I would be really, really happy \nif you could become my trainer, but…!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "I really am a good-for-nothing… \nI know I'll end up causing lots of problems. \nI couldn't even show up to my race……"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Even considering all that, you're still okay with me…?",
+            "choice_data_list": [
+                "Even so, I still want to support you.",
+                "Even so, I still want to support you."
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "……!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "W-Wow. You're like a big brother…",
+            "choice_data_list": [
+                "A big brother?"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "W-Wow. You're like a big sister…",
+            "choice_data_list": [
+                "A big brother?",
+                "A big sister?"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "<i>Eeep!</i> I-It's nothing, please don't mind what I said…!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Ah, um… well, I'll be in your care then, Trainer!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "… I will do my best!!"
+        },
+        {
+            "text": "Despite her lingering discomfort, a heartfelt \nsmile appeared on Rice Shower's face."
+        },
+        {
+            "text": "And thus, today I was at the course, awaiting Rice Shower's \narrival to begin our first training session together ——"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Heave-ho, heave-ho…"
+        },
+        {
+            "text": "There she was, carrying a massive backpack that threatened to \ntear at the seams. A tremendous thud echoed through the air \nas she dropped it to the ground and came running over."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "<i>Phew…</i> I'm sorry for making you wait! \nI look forward to our training together!",
+            "choice_data_list": [
+                "<size=34>What in the world is inside that massive bag…?</size>"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Ah, that's umm… I've brought along all sorts of things \njust in case an accident might happen. Things like \nbandages or sports tape, for when I trip…"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "… an umbrella for sudden rain showers, some spare change \nof clothes…… and in case something happens on the way \nback home, there's even mayonnaise for emergencies…!",
+            "choice_data_list": [
+                "W-Wow… You're well prepared…",
+                "W-Wow… You're well prepared…"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Ahh, haha… It's my first day of training, after all. \nI wanted to make sure I wouldn't be a burden… \nbut maybe I went a bit too far…?",
+            "choice_data_list": [
+                "A burden?"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Yeah. Ever since I was young… I would \nalways cause misfortune for others."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Kids around me would trip, or find their shoe laces \nsnapping… and on really bad days there's even been \ntimes when a bird pooped on someone's head……"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "I'm a good-for-nothing endlessly \ncausing trouble for others……"
+        },
+        {
+            "text": "Even though it appeared to me as mere unlucky \ncoincidences, I doubted Rice Shower would believe \nit if I told her. That's just the kind of person she is.",
+            "choice_data_list": [
+                "(She really is a kind hearted girl…)",
+                "(She really is a kind hearted girl…)"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "… <i>Ahhh!!</i> I started rambling on a bit…! \nI'm so sorry! I'm so sorry!!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Let's get started with training, please!"
+        },
+        {
+            "text": "Thus we began our first day of training. With unwavering \ndetermination, Rice Shower diligently completed each \npart of the training menu as instructed."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "<i>Haa, haa…!</i> \n… H-How was my time?",
+            "choice_data_list": [
+                "<size=34>Amazing! You're even faster than I expected!</size>",
+                "<size=34>Amazing! You're even faster than I expected!</size>"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "… Really?! I-I'm so glad…!!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Umm… Trainer, is it okay if I go for another lap? \nI-I'm still full of energy, so I can still run!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "I want to double check if I've got that advice for \nhandling corners you gave me earlier down pat!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "And I'm starting to get a feel for how to \nincrease my pace! I-Is it okay, or…?",
+            "choice_data_list": [
+                "Of course! Knock yourself out!",
+                "Of course! Knock yourself out!"
+            ]
+        },
+        {
+            "text": "Rice Shower was incredibly obedient and a quick learner. \nThanks to that, the training went smoothly from start to finish."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Ah… it looks like the sun is about to set already…"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "I was having so much fun with running \nthat I hadn't noticed the time at all…",
+            "choice_data_list": [
+                "I'm glad you had fun training."
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Y-Yeah! I had so much fun with today's training! \nYou're so nice, after all… very much like a big \nbrother, as I thought ——"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Y-Yeah! I had so much fun with today's training! \nYou're so nice, after all… very much like a big \nsister, as I thought ——"
+        },
+        {
+            "text": "<i>(～Grrroowll～)</i>"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "<i>Hyaaaah-ah-ahh</i>, p-please excuse me!! \n<size=28><i>Shh, dear stomach! Please be quiet…!!</i></size>"
+        },
+        {
+            "text": "…… As a reward for finishing our first day \nof training, I decided to treat her to something \ndelicious out in town."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Umm, Trainer? Can I really eat anything I want…?",
+            "choice_data_list": [
+                "It's your reward, so feel free \nto pick anything you'd like!",
+                "It's your reward, so feel free \nto pick anything you'd like!"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Anything…! Anything… \nAnything I want……"
+        },
+        {
+            "text": "As she looked around, her gaze fixated on \nthe banner hanging in front of a ramen shop, \nadvertizing its \"Explosive Mega DX\" bowl…"
+        },
+        {
+            "text": "Just as I was about to suggest we head on over ——"
+        },
+        {
+            "name": "Ramen Stallkeeper",
+            "text": "The Explosive Mega DX is sold out for today! \nPlease come visit us again tomorrow～!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Ah…! Aww……",
+            "choice_data_list": [
+                "<size=34>… Rice, I'll get you all the toppings you want!</size>",
+                "<size=34>… Rice, I'll get you all the toppings you want!</size>"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "………! R-Really…?!"
+        },
+        {
+            "text": "Witnessing Rice Shower's unexpectedly hearty appetite was \na delightful surprise, and we continued sharing laughter and \nsmiles together until our first day of training came to an end…"
+        }
+    ]
+}

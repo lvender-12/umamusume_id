@@ -1,0 +1,96 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "—After the race, on my way back to the\nwaiting room, I ran into a reporter."
+        },
+        {
+            "name": "Otonashi Etsuko",
+            "text": "Thank you for your time. I'm\nOtonashi Etsuko from Twinkle Monthly."
+        },
+        {
+            "name": "Otonashi Etsuko",
+            "text": " … I watched the race. First of all,\nthank you very much for your hard work."
+        },
+        {
+            "name": "Otonashi Etsuko",
+            "text": "Although she did not take first\nplace, I think her unique personality\ncame out in this race."
+        },
+        {
+            "name": "Otonashi Etsuko",
+            "text": "… Well, trainer. How are you planning\nto adjust next race?",
+            "choice_data_list": [
+                "I will seriously reflect on this result.",
+                "We'll keep pushing forward!"
+            ]
+        },
+        {
+            "name": "Otonashi Etsuko",
+            "text": "I see, I see…"
+        },
+        {
+            "name": "Otonashi Etsuko",
+            "text": "Adjusts training based on result.\nPersonally contacts chairwoman about\ndeficiencies, doing everything for the\nsake of Uma Musume…"
+        },
+        {
+            "name": "Otonashi Etsuko",
+            "text": "While accepting the results, they are\nlooking to the future. That's the kind\nof trainer you'd expect at Tracen!"
+        },
+        {
+            "text": "Looks like I handled that well!"
+        },
+        {
+            "text": "I told <chrname> after the race that the interview\nhad been a success and thanked her for\nher efforts."
+        },
+        {
+            "name": "Otonashi Etsuko",
+            "text": "Yes, I see. I am a little disappointed\nbecause I was expecting to hear\nsomething more concrete after this\nresult."
+        },
+        {
+            "name": "Otonashi Etsuko",
+            "text": "Thank you for your comment.\n… I hope you win the next race!"
+        },
+        {
+            "text": "This time, it didn't seem like I was\nable to sway the reporters much…"
+        },
+        {
+            "text": "… Setting aside the coverage, I went to\ncheer up <chrname> after the race.",
+            "color_text_info_list": [
+                "<chrname>"
+            ]
+        },
+        {
+            "name": "Otonashi Etsuko",
+            "text": "…"
+        },
+        {
+            "name": "Otonashi Etsuko",
+            "text": "How… Glorious! You're the quintessential\nTracen Academy trainer!"
+        },
+        {
+            "name": "Otonashi Etsuko",
+            "text": "Only believe in and develop her unique\ntraits! So you mean, yes!? I understand!\nAll that's missing is strategy and\nexperience!"
+        },
+        {
+            "name": "Otonashi Etsuko",
+            "text": "Perhaps you're planning an all-nighter\nto come up with a hundred strategies!?\nOf course! It's to make sure your Uma\nwins!"
+        },
+        {
+            "name": "Otonashi Etsuko",
+            "text": "Haa… What a passionate relationship of\ntrust…! I'm deeply impressed…!"
+        },
+        {
+            "name": "Otonashi Etsuko",
+            "text": "Our next feature is set! Quick… I need\nto hurry and talk to the editor-in-\nchief…!"
+        },
+        {
+            "text": "… Looks like things were a little\nembellished, but at least it\nwas taken well (?)."
+        },
+        {
+            "text": "I tended to <chrname> after the race and\ntold her about the interview.",
+            "color_text_info_list": [
+                "<chrname>"
+            ]
+        }
+    ]
+}

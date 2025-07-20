@@ -1,0 +1,63 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Aaaaaargghhh―!! I, I've… What a mess\nI've made of this run!!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "That was ab-so-lutely not! By any means! \nan exemplary run!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "That was the run of a flunk-student! \nNow, I'm Bakushin-ing down the road to \nbecoming a delinqueeeent―!!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "……Gulp.",
+            "choice_data_list": [
+                "Failure isn't a bad thing.",
+                "Class president, pull yourself together!"
+            ]
+        },
+        {
+            "text": "Can you recover from failure? That's the \nreal key to success, I told her."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "…So, in other words, what you're saying\nis, I'm still Bakushin-ing down the\nglorious honor student road at this\nvery moment!?",
+            "choice_data_list": [
+                "That's exactly what I'm saying!"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "I seeee! ……I won't let this\nhappen again! Let's start training\nstraightaway!!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "I have to set an example for everyone! \nThere's no time to stand still!!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "T-Trainer…!",
+            "choice_data_list": [
+                "You're supposed to be a role model for everyone, right?",
+                "You're supposed to be a role model for everyone, right?"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "…Yes, I have not yet resigned from my \nposition as class president……!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "In order to carry out my solemn duty\nof guiding each and every Uma Musume,\nI must keep going with everything I've\ngot!!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "A model student from cradle to grave!! \nBecause that's exactly what Sakura \nBakushin O is!"
+        }
+    ]
+}

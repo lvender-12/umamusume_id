@@ -1,0 +1,34 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Hayakawa Tazuna",
+            "text": "The horsegirls who entrust their\nfeelings to the training horsegirl are\nknown as successor horsegirls.",
+            "color_text_info_list": [
+                "successor horsegirls"
+            ]
+        },
+        {
+            "name": "Hayakawa Tazuna",
+            "text": "Once you have completed your training\nand had your horsegirl registered in the\nHall of Fame, you will be able to select\nher as a successor.",
+            "color_text_info_list": [
+                "registered in the \nHall of Fame"
+            ]
+        },
+        {
+            "name": "Hayakawa Tazuna",
+            "text": "Let's choose a successor horsegirl."
+        },
+        {
+            "name": "Hayakawa Tazuna",
+            "text": "Depending on the horsegirl's factors\nand feelings, you can receive various\nbenefits, such as improving starting\nstats and acquiring new skills.",
+            "color_text_info_list": [
+                "factors"
+            ]
+        },
+        {
+            "name": "Hayakawa Tazuna",
+            "text": "Even if you choose her as a successor, \nyou won't lose that horsegirl, \nso don't be worried!"
+        }
+    ]
+}

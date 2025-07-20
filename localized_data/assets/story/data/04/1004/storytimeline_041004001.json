@@ -1,0 +1,242 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "The Selection Race. One of the largest events at the academy, \nwhere horsegirls display their abilities to prospective trainers."
+        },
+        {
+            "text": "Among the many eager girls trying their hardest, one ran at \ntremendous pace, all the while carrying a relaxed expression."
+        },
+        {
+            "text": "Let's kick it up a gear!",
+            "name": "Maruzensky"
+        },
+        {
+            "text": "(Waaaaaaaah!)",
+            "name": "Crowd"
+        },
+        {
+            "text": "Ma- Maruzensky speeds up further! The gap between her and the \nrest grows larger! She's running her own race!",
+            "name": "Commentator"
+        },
+        {
+            "text": "Hah, hah, hah… Mmm, the wind feels so nice!",
+            "name": "Maruzensky"
+        },
+        {
+            "text": "T- This is…!",
+            "name": "Rookie Trainer A",
+            "choice_data_list": [
+                "(What an amazing run…!)",
+                "(What a great run…!)"
+            ]
+        },
+        {
+            "text": "Her running form is strong, beautiful, faster than the wind—"
+        },
+        {
+            "text": "Faster… I can go faster!!",
+            "name": "Maruzensky"
+        },
+        {
+            "text": "And above all, she was kicking the ground with more joy and \ncomfort than anyone else on the course."
+        },
+        {
+            "text": "And the race is over! Maruzensky takes first place! With an \noverwhelming run that left the others far behind!",
+            "name": "Commentator"
+        },
+        {
+            "text": "(Waaaahhhh…!!!)",
+            "name": "Crowd"
+        },
+        {
+            "text": "Pheew! Aah, that felt so good—♪ I'm \nalmost sad to reach the finish.",
+            "name": "Maruzensky"
+        },
+        {
+            "text": "Maruzenskyyyy! I didn't expect anything \nless! You're amazing! You're awesome!",
+            "name": "Junior Horsegirl A"
+        },
+        {
+            "text": "I-I've never seen a time like this before…!",
+            "name": "Junior Horsegirl B"
+        },
+        {
+            "text": "Oh my, you girls! Thanks for all your support!!",
+            "name": "Maruzensky"
+        },
+        {
+            "text": "You inspire me! I want to be as fast as \nyou! Please run with me again sometime!",
+            "name": "Junior Horsegirl A"
+        },
+        {
+            "text": "Eheheh, sure thing! We could do it right after \nthis if you like! I'm always up for a run♪",
+            "name": "Maruzensky"
+        },
+        {
+            "text": "I-is she really saying that after winning by \na mile…? This girl's something else…!",
+            "name": "Rookie Trainer A"
+        },
+        {
+            "text": "This must be what they mean when they say she's running on a \ndifferent engine. I'd sure love to have her…!",
+            "name": "Average Trainer A"
+        },
+        {
+            "text": "Let's see… Oh?",
+            "name": "Maruzensky"
+        },
+        {
+            "text": "Maruzensky, you're the ace I've been looking for! \nMaruzensky, can I talk to you for a moment!",
+            "name": "Trainers"
+        },
+        {
+            "text": "Oh dear～…",
+            "name": "Maruzensky"
+        },
+        {
+            "text": "Naturally, after that Selection Race, she was quickly swarmed \nwith trainers looking to contract her."
+        },
+        {
+            "text": "But—"
+        },
+        {
+            "text": "Maruzensky, you can be an undefeated Triple \nCrown horsegirl! Come make it big with me!",
+            "name": "Rookie Trainer A"
+        },
+        {
+            "text": "Oh my, going big sounds nice and all but… I'm sorry. \nThanks for your passionate invitation.",
+            "name": "Maruzensky"
+        },
+        {
+            "text": "You will be a legendary horsegirl one day! Let \nme help you make your mark on history!!",
+            "name": "Average Trainer A"
+        },
+        {
+            "text": "Ahahah, aren't you exaggerating a little? I don't think I'm \ncapable of that much. Sorry♪",
+            "name": "Maruzensky"
+        },
+        {
+            "text": "No matter how many trainers approached her, \nshe politely turned them all down."
+        },
+        {
+            "text": "Maruzensky… She's constantly been approached \nby trainers long before the Selection Race. \nI wonder why she turns them all down…?",
+            "name": "Junior Horsegirl B"
+        },
+        {
+            "text": "I'm sure she has her sights set way higher \nthan even those trainers have!",
+            "name": "Junior Horsegirl A"
+        },
+        {
+            "text": "I- I see, of course…! I can't wait to \nsee her find a trainer who suits her and take to the big stages…",
+            "name": "Junior Horsegirl B"
+        },
+        {
+            "text": "………………",
+            "name": "Maruzensky"
+        },
+        {
+            "text": "In the end, Maruzensky did not sign with anyone that day."
+        },
+        {
+            "text": "—One evening a few days later."
+        },
+        {
+            "text": "Pheeew…",
+            "name": "Maruzensky"
+        },
+        {
+            "text": "I happened to pass by the training course when I saw \nMaruzensky running, her hair swaying in the wind."
+        },
+        {
+            "text": "There's still time… Rightio, let's go another round♪",
+            "name": "Maruzensky"
+        },
+        {
+            "text": "—Hup!!",
+            "name": "Maruzensky"
+        },
+        {
+            "text": "Ha, hah, ha… Heheh!",
+            "name": "Maruzensky"
+        },
+        {
+            "text": "The same feeling I felt during the Selection \nRace came over me again."
+        },
+        {
+            "text": "How does she—"
+        },
+        {
+            "text": "Faster… faster…!!",
+            "name": "Maruzensky"
+        },
+        {
+            "text": "What a fun and comfortable looking way to run…!"
+        },
+        {
+            "text": "Hah, hahh… Pheeew～. That hits the spot♪",
+            "name": "Maruzensky"
+        },
+        {
+            "text": "Oh, dearie me? If I remember, you're the trainer I saw at the \nSelection Race the other day… right?",
+            "name": "Maruzensky"
+        },
+        {
+            "text": "Oh, dearie me? If I have it well, you're the trainer I saw at the \nSelection Race the other day… right?",
+            "name": "Maruzensky"
+        },
+        {
+            "text": "Did you come all this way to scout me? \nHeheh, aren't you a dedicated one.",
+            "name": "Maruzensky"
+        },
+        {
+            "text": "So, what will I have the pleasure of hearing from \nyou? See any future glory in my running?",
+            "name": "Maruzensky",
+            "choice_data_list": [
+                "No, just…",
+                "No, I just…"
+            ]
+        },
+        {
+            "text": "So, what sort of conversation will you bless me with? Have you \nfound future glory in my running?",
+            "name": "Maruzensky",
+            "choice_data_list": [
+                "No, just…",
+                "No, I just…"
+            ]
+        },
+        {
+            "text": "…? Just?",
+            "name": "Maruzensky",
+            "choice_data_list": [
+                "<size=23>I was just watching you run, thinking \nhow much fun you were having.</size>"
+            ]
+        },
+        {
+            "text": "Ehh? …That's all?",
+            "name": "Maruzensky"
+        },
+        {
+            "text": "Oh, my… Is that really all you wanted? Hmmm…",
+            "name": "Maruzensky"
+        },
+        {
+            "text": "Heheh! You're kind of a strange one, aren't you?",
+            "name": "Maruzensky"
+        },
+        {
+            "text": "Heheh! You're kind of a strange one, aren't you?",
+            "name": "Maruzensky"
+        },
+        {
+            "text": "Well, I'm have fun running… \nIf you have fun watching, be my guest?",
+            "name": "Maruzensky"
+        },
+        {
+            "text": "Well, I'm have fun running… \nIf you like watching, be my guest?",
+            "name": "Maruzensky"
+        },
+        {
+            "text": "For a while after, I watched her run around, \nhappily, at tremendous speed…"
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Now… Trainer."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "I've already taken care of making my \nfirst appearance to the everyone in the \naudience. So, from next year onwards――"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "The battle of a lifetime! Now, it's time\nfor my Classic battlefield to begin!",
+            "choice_data_list": [
+                "S, sure.",
+                "S, sure."
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Now, now, how shall we rush forward \ninto the Satsuki Sho!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "As I thought, it's make-or-break!? Going\nstraight in, zero prep, would be pretty\nBakushin-esque, wouldn't it!",
+            "choice_data_list": [
+                "Isn't that a little too Bakushin-esque!?"
+            ]
+        },
+        {
+            "text": "As one might expect, the Satsuki Sho is\nmuch too abrupt of a challenge, so if we\njust follow the original plan, the first\nrace would be…",
+            "choice_data_list": [
+                "What about the Spring Stakes?"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Ohh―! That is a race for the very best \nUma Musume, in anticipation of the \nSatsuki Sho!"
+        },
+        {
+            "text": "Spring Stakes, 1800 meters. It's a long\ndistance for Sakura Bakushin O, but\nit'll give her time to think before\nSatsuki Sho.",
+            "color_text_info_list": [
+                "Spring Stakes"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Yes, yes, this is an honor student's \nchoice race!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "All right, next stop, the Spring Stakes!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "With my speed, I can run 1800 \nmeters in an instant!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "If it's been decided! \nI need to train for middle distances \nASAP!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Bakushinbakushiii――n!!"
+        }
+    ]
+}

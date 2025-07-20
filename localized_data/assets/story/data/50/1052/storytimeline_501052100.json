@@ -1,0 +1,182 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Starting today, we would finally begin \nfull-scale training for Haru Urara's \nTwinkle Series challenge.",
+            "color_text_info_list": [
+                "Haru Urara",
+                "Twinkle Series"
+            ]
+        },
+        {
+            "text": "Haru Urara is also very eager to win \nthe first place. I'm sure she will work \nhard enough."
+        },
+        {
+            "text": "—Or at least that's what I thought…"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Ah, it's the trainer! \nStarting today, I'm counting on you!",
+            "choice_data_list": [
+                "Let's do our best together!",
+                "Let's do our best together!"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Yes! \nI'm good at doing my best, \nso leave it to me!",
+            "choice_data_list": [
+                "Okay, let's start training!",
+                "Okay, let's start training!"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Yay! \nI'll run a lot!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Eh-ho, eh-ho, eh-ho! \nPhew, the first round is over!",
+            "choice_data_list": [
+                "Okay, one more lap!"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Ye—"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Ohhhhh!!",
+            "choice_data_list": [
+                "What happened?!",
+                "What happened?!"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "A butterfly! \nIt's a big one with a pretty pattern!",
+            "choice_data_list": [
+                "…… Eh?"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Look, look, over there! \nIt's fluttering across the grass!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Ah, it's going away! \nWait, don't go!",
+            "choice_data_list": [
+                "Urara?!"
+            ]
+        },
+        {
+            "text": "Haru Urara ran at full speed. \nI thought about going after her, \nbut maybe she has something in mind."
+        },
+        {
+            "text": "Trusting her, \nI decided to wait a little longer…"
+        },
+        {
+            "text": "……… She hasn't come back at all! \nMaybe something happened… \nI must hurry to find her!"
+        },
+        {
+            "text": "(She's not here…)"
+        },
+        {
+            "text": "(Not here, either!)"
+        },
+        {
+            "text": "(Same here!)"
+        },
+        {
+            "text": "After searching around, finally―"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Pheeeew, I'm so tired! \nLet's take a break～!"
+        },
+        {
+            "text": "I found Haru Urara! \nWhat's more, she's covered in mud… \nDid something happen after all?!",
+            "choice_data_list": [
+                "Urara!!"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Huh? Trainer! \nWhat a coincidence!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Did the trainer come here to chase after \nthe fish, too?",
+            "choice_data_list": [
+                "…… Hm?"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Hm?"
+        },
+        {
+            "text": "―According to the story, Haru Urara,\nafter chasing the butterfly, reached the\nriverbed and started chasing the fish."
+        },
+        {
+            "text": "I'm not quite sure about it… \nbut maybe it was Haru Urara's way \nof training."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "You know, there was one that looked like \nthe king of the river! \nI was so close to catching it～!"
+        },
+        {
+            "text": "… I think she was just playing around \nafter all.",
+            "choice_data_list": [
+                "Come on, let's get back to training."
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Hmm? \nWere we training?"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Hmmm, I guess we were doing it, \nbut I didn't feel like we were…"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Aah! There was a big fish just now!\nIsn't that the king?! Let's look\ntogether!",
+            "choice_data_list": [
+                "… You want to win first place, right?",
+                "… You want to win first place, right?"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Of course! \nBecause winning looks like a lot of fun!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "I want to run a lot, win a lot, \nand have a lot of fun!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "That's why you became my trainer after\nall!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "I'm looking forward to working with you \nfrom now on! *Bow*"
+        },
+        {
+            "text": "After all, Haru Urara has the will to \ndo her best. As long as she can keep \nthat up, her goal of getting first place \nwill definitely come true, but…"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Ah, it's a carrot cloud! It looks\ndelicious～! Ah, wait, don't go～!"
+        },
+        {
+            "text": "… It looks like I'll need to think about\nhow to get her to focus on her training\nfirst."
+        },
+        {
+            "text": "In any case, my days of training \nwith Haru Urara have begun!"
+        }
+    ]
+}

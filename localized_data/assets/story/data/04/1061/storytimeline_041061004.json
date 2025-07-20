@@ -1,0 +1,254 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "The rain that had been falling yesterday stopped in the \nafternoon, and it was finally time for King Halo's mock race."
+        },
+        {
+            "name": "Experienced Trainer A",
+            "text": "Ohh, it's pretty crowded! Well that-s to be expected I guess. \nThat Grass Wonder is gonna be participating!"
+        },
+        {
+            "name": "Veteran Trainer A",
+            "text": "The track condition isn't very good cause of the rain… Well, if \nit's Grass Wonder it shouldn't be a problem. Oh, here she comes!"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Good morning. King-chan～. \nGood luck out there today."
+        },
+        {
+            "name": "King Halo",
+            "text": "I'll give you the right to challenge me. Grass-san! \nI'll show you the running of a first-class!"
+        },
+        {
+            "name": "King Halo",
+            "text": "…You came again, huh.",
+            "choice_data_list": [
+                "I heard you'd be running.",
+                "I heard you were running."
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "Hmm… \nYou're more rebellious than I thought."
+        },
+        {
+            "name": "King Halo",
+            "text": "…Well, fine. If you want to see King run so badly I'll \nentertain you as many times as you like! Ohhohoho!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Well, the princess is the same as ever～.",
+            "choice_data_list": [
+                "Did you come to cheer on King Halo too?",
+                "Are you here to support King Halo too?"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Nyahaha, it's not like that～. \nI was just free, so I came to kill some time."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "That aside, it looks like it's starting～. We'll \nprobably get scorned if we don't pay attention. \nso wouldn't it be better to watch properly?"
+        },
+        {
+            "name": "King Halo",
+            "text": "Clear the way! King is coming through!!"
+        },
+        {
+            "name": "Experienced Trainer A",
+            "text": "Oh, King Halo came again! Is she good at \ncourses that require power like her mother?"
+        },
+        {
+            "name": "Veteran Trainer A",
+            "text": "Well, who knows… it's too early to say right now \nWe'll have to watch a bit more-"
+        },
+        {
+            "name": "King Halo",
+            "text": "Ha… Ha…! \nI, have to leave results… as a first class…!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Oh, this is a rare development for King. During the selection \nrace she was buried in the group, I wonder what changed～?"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "But her form is kinda breaking. Like she's putting \ntoo much strength into it. Her being too motivated \nand hard-working isn't anything new though."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "What a waste… \nShe should just run a little freely."
+        },
+        {
+            "name": "Experienced Trainer A",
+            "text": "Straight line…! Here she comes. it's Grass Wonder!"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Nghhhhh!"
+        },
+        {
+            "name": "Veteran Trainer A",
+            "text": "What strong power!! She's running in a way that \nstops her from putting the stress on her legs!! \nThe gap with King just keeps widening…!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Ngh. Looks like Grass-chan ended up being the star."
+        },
+        {
+            "text": "Then, after the race…"
+        },
+        {
+            "name": "Veteran Trainer A",
+            "text": "As expected of Grass Wonder."
+        },
+        {
+            "name": "Veteran Trainer A",
+            "text": "It seems she's not accepting scouts right now but… \nNext Selection Race she's absolutely someone I'd want to talk to."
+        },
+        {
+            "name": "Experienced Trainer A",
+            "text": "Right! As for King Halo… well, I suspect she'll \nstart taking a more realistic perspective soon."
+        },
+        {
+            "name": "King Halo",
+            "text": "Ha… Ha… \n…Ngh!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Ohhohoho! I won't give up first next time! \nPrepare yourself, this isn't all there is to King's running!"
+        },
+        {
+            "text": "As usual, the trainers turn their dismayed faces towards her."
+        },
+        {
+            "name": "King Halo",
+            "text": "That's right! Pay attention to me and remember this well! \nI'm King Halo, the first-class horse girl!"
+        },
+        {
+            "text": "No matter how much she loses. how frustrated she gets, or how \ndisappointed. she continues to call herself \"first-class\". \nBecause, that's the strength of her will."
+        },
+        {
+            "text": "Then, her trainer should carry the same will!",
+            "choice_data_list": [
+                "And, I'm the first-class trainer!",
+                "And, I'm a first-class trainer!"
+            ]
+        },
+        {
+            "name": "Trainers",
+            "text": "…Ha?"
+        },
+        {
+            "name": "King Halo",
+            "text": "Eh?",
+            "choice_data_list": [
+                "That's why I'll scout a first-class horsegirl!",
+                "That's why I'll scout a first-class horsegirl!"
+            ]
+        },
+        {
+            "name": "Experienced Trainer A",
+            "text": "Umm… are you okay? \nGrass Wonder isn't here y'know?"
+        },
+        {
+            "name": "Veteran Trainer A",
+            "text": "Which would mean… \nThe only one in front of your eyes is King Halo?",
+            "choice_data_list": [
+                "That's right! She is!"
+            ]
+        },
+        {
+            "name": "Trainers",
+            "text": "(Chattering…)"
+        },
+        {
+            "name": "King Halo",
+            "text": "…Wait, you."
+        },
+        {
+            "name": "King Halo",
+            "text": "Do you have the iron will to prove King's overwhelming \nbirth-given talent to the world."
+        },
+        {
+            "name": "King Halo",
+            "text": "And do you have the determination to rack up countless \nvictories, and make the name \"King Halo\" roar!?",
+            "choice_data_list": [
+                "I do!!"
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "…Then, it's decided. \nEveryone here, listen up!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Just now, the first-class King Halo has \ndecided to pair up with this first-class trainer!"
+        },
+        {
+            "name": "King Halo",
+            "text": "We'll enter the Twinkle Series, bringing victory to \nevery race. And you'll all watch that glorious journey in awe!"
+        },
+        {
+            "name": "King Halo",
+            "text": "…Now, it's a contract. \nCome with me, trainer!"
+        },
+        {
+            "name": "King Halo",
+            "text": "…You. why would you do such a thing?"
+        },
+        {
+            "name": "King Halo",
+            "text": "To shout you're a \"first-class\" while everyone is watching. \nDo you really understand what you're taking on by doing that?"
+        },
+        {
+            "name": "King Halo",
+            "text": "To be called a fool with a big mouth, pointed at behind your \nback, laughed at. But, you can't take back what you've said.",
+            "choice_data_list": [
+                "That's why I have no choice but to become a real first-class.",
+                "That's why I have no choice but to become a real first-class."
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "…Hmph, aren't you stupid! You're more rebellious \nand more clumsy than I expected!"
+        },
+        {
+            "name": "King Halo",
+            "text": "…Well, I don't hate it though."
+        },
+        {
+            "text": "(Bzz! Bzz!)"
+        },
+        {
+            "name": "King Halo",
+            "text": "…It's, mother again.",
+            "choice_data_list": [
+                "Let's declare it together."
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "Eh?…Declare? What?",
+            "choice_data_list": [
+                "\"Watch us, we're first-class.\""
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "…Ufufu. \nI don't hate that sort of thing either!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Then, I'm gonna pick up now. \nYou're ready right? One, two…!"
+        },
+        {
+            "text": "And so, my days of aiming \nto prove I'm first-class with King Halo began."
+        },
+        {
+            "name": "King Halo",
+            "text": "Hello? Mother. I'm not coming home. That aside \nlet me introduce you, listen well. This person is my trainer!"
+        }
+    ]
+}

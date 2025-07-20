@@ -1,0 +1,163 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "<i>The Selection Race is tomorrow…</i>",
+            "name": "Admire Vega"
+        },
+        {
+            "text": "I'm sorry for making you wait… \nBut just wait… a little longer…",
+            "name": "Admire Vega"
+        },
+        {
+            "text": "I will definitely win tomorrow, then I will have my debut \nrace… Then I will dedicate many, many wins to you.",
+            "name": "Admire Vega"
+        },
+        {
+            "text": "Your big sister will do her best.",
+            "name": "Admire Vega"
+        },
+        {
+            "text": "Was it you…?",
+            "name": "Young Ayabe"
+        },
+        {
+            "text": "Was it you that wanted to race so badly? Was it you that wanted \nto win so badly? Was it you that had so much fun? And… was it \nyou that felt so lonely…?",
+            "name": "Young Ayabe"
+        },
+        {
+            "text": "Was that all you? Hey…",
+            "name": "Young Ayabe"
+        },
+        {
+            "text": "The day of Admire Vega's Selection Race has finally \narrived. Many trainers were gathered in the audience, \ntheir eyes full of anticipation."
+        },
+        {
+            "text": "I'm also very excited to see Admire Vega's race…"
+        },
+        {
+            "text": "………………",
+            "name": "Admire Vega"
+        },
+        {
+            "text": "………………",
+            "name": "Admire Vega"
+        },
+        {
+            "text": "I will definitely win.",
+            "name": "Admire Vega"
+        },
+        {
+            "text": "After last night, I couldn't help but worry about her.",
+            "choice_data_list": [
+                "<i>I… have a bad feeling about this.</i>"
+            ]
+        },
+        {
+            "text": "But despite these concerns, the race began without a hitch!"
+        },
+        {
+            "text": "(Woooooh!!)"
+        },
+        {
+            "text": "Hah, hahh, haa—",
+            "name": "Admire Vega"
+        },
+        {
+            "text": "<i>I will win… I have to win.</i>",
+            "name": "Admire Vega"
+        },
+        {
+            "text": "That time, I later found out that it could have \nbeen me or her that ended up as the sacrifice.",
+            "name": "Admire Vega"
+        },
+        {
+            "text": "I lived merely by pure chance. Or perhaps… \nMy life was simply a miracle left to me by my little sister.",
+            "name": "Admire Vega"
+        },
+        {
+            "text": "So!",
+            "name": "Admire Vega"
+        },
+        {
+            "text": "They are finally rounding the fourth corner and entering \ninto the final straight! Number 9 is breaking out from \nthe group and taking a great lead. The favorite for \nthis race, Admire Vega, is in 5th place!",
+            "name": "Commentator"
+        },
+        {
+            "text": "Hahh, haa, guuuh…!",
+            "name": "Admire Vega"
+        },
+        {
+            "text": "Admire Vega seems to be surrounded…! \nDid she not manage to get into a good position?",
+            "name": "Average Trainer A"
+        },
+        {
+            "text": "<i>No… No! I won't be forgiven for doing \nanything other than winning!! But, I…!!</i>",
+            "name": "Admire Vega"
+        },
+        {
+            "text": "You… really loved running, huh? \nYou really wanted to race, and to win, didn't you?",
+            "name": "Young Ayabe"
+        },
+        {
+            "text": "Then, if that's the case… I…",
+            "name": "Young Ayabe"
+        },
+        {
+            "text": "I'll grant you your wish.",
+            "name": "Young Ayabe"
+        },
+        {
+            "text": "Your big sister… will…!!",
+            "name": "Young Ayabe"
+        },
+        {
+            "text": "<i>I will continue running, I will continue winning! \nAnd I will continue to bring glory to her!</i>",
+            "name": "Admire Vega"
+        },
+        {
+            "text": "<i>The only reason. The only \nreason that I am alive is for this!</i>",
+            "name": "Admire Vega"
+        },
+        {
+            "text": "…… Aaaaaaaaahh!!",
+            "name": "Admire Vega"
+        },
+        {
+            "text": "Admire Vega is quickly and nimbly cutting through the pack and \npushing forward! 3rd place, 2nd place, and 1st place! What \nmagnificently explosive power!!",
+            "name": "Commentator"
+        },
+        {
+            "text": "Eh? Wait, what was…",
+            "name": "Veteran Trainer A",
+            "choice_data_list": [
+                "!!!"
+            ]
+        },
+        {
+            "text": "And goal!! The winner of this selection \nrace is Admire Vega! Admire Vega has won!",
+            "name": "Commentator"
+        },
+        {
+            "text": "That terrifying speed that she showed at the end of the final \nstraight. The onlookers were so moved by the force of it all that \nthey couldn't help but cheer."
+        },
+        {
+            "text": "Then came an unsettling sound."
+        },
+        {
+            "text": "Haah, haahh, haaaah—",
+            "name": "Admire Vega"
+        },
+        {
+            "text": "This is an announcement regarding the most recent race. Due to \nher diagonal movement in the final straight, Admire Vega has been \nlowered to 4th place.",
+            "name": "Selection Race Official A"
+        },
+        {
+            "text": "Haa… gh……",
+            "name": "Admire Vega"
+        },
+        {
+            "text": "That day, no trainer reached out to \nAdmire Vega and she left the venue, alone."
+        }
+    ]
+}

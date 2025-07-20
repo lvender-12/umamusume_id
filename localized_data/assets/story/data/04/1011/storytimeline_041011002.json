@@ -1,0 +1,221 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Uma Musume that were aiming to debut used the 『Selection Race』 to \nshow off their abilities, hoping to be scouted by trainers"
+        },
+        {
+            "text": "For Tracen Academy, it was one of the most important \nevents. And today, that event was happening! Immediately \nwhen I arrived at the course―"
+        },
+        {
+            "text": "Oh? Are you, perhaps…… \nthat lost trainer that I met the other day!?",
+            "name": "Grass Wonder",
+            "choice_data_list": [
+                "That was a little embarrassing……",
+                "That was a little embarrassing……"
+            ]
+        },
+        {
+            "text": "Fufufu, sorry about that. \nIt was quite a memorable day, so I couldn't help it～",
+            "name": "Grass Wonder"
+        },
+        {
+            "text": "You've come to watch the Selection Races, I see. \nI'm participating in the last group today, so \nI'd be happy if you stayed until then.",
+            "name": "Grass Wonder"
+        },
+        {
+            "text": "Well then, I should go get prepared. \nThe sunlight is a little strong, so be careful about that.",
+            "name": "Grass Wonder"
+        },
+        {
+            "text": "With a gentle smile and calm voice that never wavered, \nGrass Wonder made her way to the course."
+        },
+        {
+            "text": "And so, the races continued one after another―"
+        },
+        {
+            "text": "Awawawa, next up is my group……! \nI-I-I'm getting nervous～……!",
+            "name": "Special Week"
+        },
+        {
+            "text": "Nahaha! Spe-chan, you're too stiff. \nAt this rate, you'll turn to stone!",
+            "name": "El Condor Pasa"
+        },
+        {
+            "text": "Stone!? \nT-then I won't be able to run～!",
+            "name": "Special Week"
+        },
+        {
+            "text": "Now now, Spe-chan. \nRelax～, just relax～.",
+            "name": "Grass Wonder"
+        },
+        {
+            "text": "『Actions are the seeds of fate』. Spe-chan, you've spent this \nwhole time training as hard as you could for today, right?",
+            "name": "Grass Wonder"
+        },
+        {
+            "text": "All that's left is to believe in yourself and run as \nbest as you can, and it should lead to good results.",
+            "name": "Grass Wonder"
+        },
+        {
+            "text": "Grass-chan……! \nUuuh, Thanks～……!",
+            "name": "Special Week"
+        },
+        {
+            "text": "Don't worry about it～. \n……Huh?",
+            "name": "Grass Wonder"
+        },
+        {
+            "text": "Hmmm～…… El? \nCould you move over there a little bit?",
+            "name": "Grass Wonder"
+        },
+        {
+            "text": "Que? \nHaah, like this?",
+            "name": "El Condor Pasa"
+        },
+        {
+            "text": "Why are you asking this all \nof a sudden, Grass……!?",
+            "name": "El Condor Pasa"
+        },
+        {
+            "text": "Suddenly, an Uma Musume that was running in the race, \ncame around the curve with too much momentum!"
+        },
+        {
+            "text": "Wawawawawaa!! \nS-sorry……!!",
+            "name": "Uma Musume Participant"
+        },
+        {
+            "text": "Are you hurt～? \nMaybe you should get that looked at, just in case.",
+            "name": "Grass Wonder"
+        },
+        {
+            "text": "Yeah, I'll do that…… I'm really sorry about that!!",
+            "name": "Uma Musume Participant"
+        },
+        {
+            "text": "T-take care～……",
+            "name": "El Condor Pasa"
+        },
+        {
+            "text": "Buhaaaaa! \nT-that scared me……!",
+            "name": "El Condor Pasa"
+        },
+        {
+            "text": "But that's amazing Grass-chan! \nThere's no limit to how calm you can be……!!",
+            "name": "Special Week"
+        },
+        {
+            "text": "Fufu, no no～. \nEl, I'm glad you're okay too～.",
+            "name": "Grass Wonder"
+        },
+        {
+            "text": "That girl, Grass Wonder……was it? Even at such a \nbig event, she's so calm, huh! That kind of mental \nfortitude would be a powerful asset.",
+            "name": "Rookie Trainer A"
+        },
+        {
+            "text": "On top of that, it's not just her mentality…… Considering her \nresults so far, her physical specs are high too. She'll be the \nfavorite in the last group.",
+            "name": "Veteran Trainer A"
+        },
+        {
+            "text": "And with everyone's attention focused on her, \nthe race that Grass Wonder was participating in, began……!"
+        },
+        {
+            "text": "With everyone's attention on her, Grass Wonder took \nposition in the middle, and it seemed like she was \ncalmly observing the situation, however―"
+        },
+        {
+            "text": "!? Ku……!!",
+            "name": "Grass Wonder"
+        },
+        {
+            "text": "Ah, Grass Wonder is out in front! ……But, the way she's running \nright now, doesn't something seem a little off……?",
+            "name": "Rookie Trainer A"
+        },
+        {
+            "text": "It looked like the girl running next to her \nstumbled a little too. The previous races might \nhave left the course in poor condition.",
+            "name": "Veteran Trainer A"
+        },
+        {
+            "text": "Grass might have pushed forward early to avoid a collision……",
+            "name": "Veteran Trainer A"
+        },
+        {
+            "text": "Haa, haa, haa, haa……!!",
+            "name": "Grass Wonder"
+        },
+        {
+            "text": "With 200m remaining, Grass Wonder is in the lead! \nBut…… she's being chased!",
+            "name": "Commentator"
+        },
+        {
+            "text": "Will Grass Wonder be able to stay ahead!? \nAnd the way this battle ends is――!!",
+            "name": "Commentator"
+        },
+        {
+            "text": "……!!",
+            "name": "Grass Wonder"
+        },
+        {
+            "text": "The result― Grass Wonder was passed at the very last moment, \nbeing beaten in to 2nd by a nose."
+        },
+        {
+            "text": "Grass-chan, good work out there……! \nUm, well……",
+            "name": "Special Week"
+        },
+        {
+            "text": "……Hmmm～, it was unfortunate! \nIt seems like I was one step short in the end～.",
+            "name": "Grass Wonder"
+        },
+        {
+            "text": "But, it was still a reasonable result. \nI'll do my best so that next time I can finish 1st.",
+            "name": "Grass Wonder"
+        },
+        {
+            "text": "Ah…… Y-yeah! \nLet's do our best together!",
+            "name": "Special Week"
+        },
+        {
+            "text": "Grass was so close, huh. If there wasn't that \ntrouble in the middle of it, in terms of ability, \nI think she would have finished first……!",
+            "name": "Rookie Trainer A"
+        },
+        {
+            "text": "But her situational awareness is top notch. \nGrass Wonder, I'd definitely want her to join us……!",
+            "name": "Veteran Trainer A"
+        },
+        {
+            "text": "It was an unfortunate result, but the reactions were positive. \nThere would definitely be a lot of people scouting her."
+        },
+        {
+            "text": "Or, that's what I thought―"
+        },
+        {
+            "text": "……Grass!!",
+            "name": "El Condor Pasa"
+        },
+        {
+            "text": "Oh, El? \nIs something wrong?",
+            "name": "Grass Wonder"
+        },
+        {
+            "text": "If…… you're going to do more night training, \nI'll do it with you, okay?",
+            "name": "El Condor Pasa"
+        },
+        {
+            "text": "……No, no, there was a race today, after all. \nI was planning on resting.",
+            "name": "Grass Wonder"
+        },
+        {
+            "text": "Well then, I'll excuse myself here.",
+            "name": "Grass Wonder"
+        },
+        {
+            "text": "………………",
+            "name": "El Condor Pasa"
+        },
+        {
+            "text": "――『Grass Wonder is refusing all scouting requests』"
+        },
+        {
+            "text": "It wasn't long before that rumor started to circulate."
+        }
+    ]
+}

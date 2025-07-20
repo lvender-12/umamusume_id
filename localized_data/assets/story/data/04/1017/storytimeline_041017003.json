@@ -1,0 +1,245 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "It was two days after the Selection Race."
+        },
+        {
+            "text": "The meeting with Symboli Rudolf looming tomorrow, \nI walked about, struggling to find an answer."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Oh, it's you, Trainer."
+        },
+        {
+            "name": "Reporter A",
+            "text": "Ah! Excuse me, aren't you the trainer who was chatting \nwith Rudolf in the cafeteria the other day?",
+            "choice_data_list": [
+                "How did you know…?"
+            ]
+        },
+        {
+            "name": "Reporter A",
+            "text": "Haha! When a renowned horsegirl like Ms. Rudolf is spotted \nsharing a meal with a trainer right after the Selection Race, \nit's bound to catch people's attention!"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Hahah… It seems we've garnered \nmore interest than we anticipated."
+        },
+        {
+            "name": "Reporter A",
+            "text": "If you don't mind, I do have a favor to ask \nfrom a trainer as close to Ms. Rudolf…"
+        },
+        {
+            "name": "Reporter A",
+            "text": "Could you spend the day with her and take photos?!",
+            "choice_data_list": [
+                "Photos?"
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "I apologize for springing this on you, Trainer. \nYou see, I've been approached regarding a \nfeature delving into my true self."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "However, in the presence of the media, \nI tend to assume a particular persona."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "I was contemplating my options when you walked by."
+        },
+        {
+            "name": "Reporter A",
+            "text": "I believe Ms. Rudolf can be more at ease around you, Trainer. \nPlease, I'm counting on you!!",
+            "choice_data_list": [
+                "Okay…"
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Really? You're willing to do it? \nWell I'll be… You are quite accommodating indeed."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "I'll be counting on you today then."
+        },
+        {
+            "text": "I thus received a camera from the reporter and \nproceeded to take on the role of photographer…"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Now, she said she wanted me to not worry about \nthe camera and carry on with my day as usual.",
+            "choice_data_list": [
+                "What are you planning to do today?",
+                "What are your plans for today?"
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Among the new students, there is one who appears \na bit anxious. I intend to execute a plan I've devised \nto address her concerns."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Shall we go?"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Ah. ……There you are, Maruzensky."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "My, Rudolf! \nAnd… hello, Trainer♪"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Did you come looking for me? \nWhat can I do for you?"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Yes, I have a request regarding a \nnew student named Grass Wonder."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Grass Wonder! I know her. She's so charming and cute♪ \nWhat's going on with her?"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "I'm not sure if it's because she's still adjusting \nto the campus and courses, but she seems to be \nfacing some initial difficulties."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "My, is that so? Well, adapting to a big change of \nsurroundings can indeed be quite a challenge……"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "I can't bear to just let things take a downturn like this. \nWould you mind offering her a word of advice?"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Of course… Why me, though?"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Grass Wonder… There's something about her explosive speed \nthat reminds me of your running style."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "That's why I believe you might have \nsomething valuable to convey to her."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "I see… You're quite observant, aren't you?"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "You can leave it to me! Do you know \nwhere our little Grass is right now?"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Thank you, I appreciate the swift response. \nLet me lead the way, Maruzensky."
+        },
+        {
+            "text": "Guided by Symboli Rudolf, we came \nto where Grass Wonder was…"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "…………"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Oh… she seems really down. \nAlright, <i>big sis</i> is here to help～!"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Good to hear. I'm counting on you, Maruzensky.",
+            "choice_data_list": [
+                "You're not going?",
+                "You're not going?"
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Even if I were to go, I might come across as intimidating. \nThat's not my intention."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Just letting her know that you're watching and concerned \nwould be enough… <i>Hmhmm</i>, you're so awkward sometimes."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Well then, I'm off."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "I hope this helps lift her spirits, even if only a little.",
+            "choice_data_list": [
+                "You really pay close attention to \nthe other students, don't you?",
+                "You really pay close attention to \nthe other students, don't you?"
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "—— Grass Wonder… a returnee from the United States, \nknown for her kind and dependable nature. But she also \npossesses a strong inner drive and a no-nonsense side."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "She runs as a betweener. An exceedingly promising \nhorsegirl, who uses her innate observational skills \nto aim for victory with patience and accuracy."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "It's not just her. Every horsegirl here possesses \ntremendous potential, arriving at the campus gates \nfilled with hopes for their future."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "I wish… all these students could continue smiling. \nI can't help but feel that we must create a world \nwhere that is possible."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Do you consider it the fanciful dream of a young girl who hasn't \nyet seen the world? …Indeed, perhaps that is the case."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Of course, the journey to make it a reality \nis an endless one. However ——"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Thank you, Ms. Maruzensky. \nMaybe I was getting a little too impatient…"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Well, you know, you're a hardworking \nand diligent girl, that's really admirable!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "But sometimes, being too diligent can be overwhelming. \nHow about going for a drive with your <i>big sis</i> once in a while?♪"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Certainly! Hehe… I'm honored to be invited♪"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "—— Take a look at her smile."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "I wish that it would last forever… \nWhat hesitation could I have in doing so?"
+        },
+        {
+            "text": "As Symboli Rudolf expressed these sentiments, her profile \nexuded serenity, and a contented smile played upon her lips."
+        },
+        {
+            "text": "—— Suddenly, the camera in my hand caught my eye."
+        },
+        {
+            "text": "(<i>Click</i>)"
+        },
+        {
+            "text": "I took an incredible photo. \nAt that very moment ——"
+        },
+        {
+            "text": "It felt as if I had found the answer to \nSymboli Rudolf's assignment."
+        }
+    ]
+}

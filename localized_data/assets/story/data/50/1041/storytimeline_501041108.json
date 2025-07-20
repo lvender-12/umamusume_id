@@ -1,0 +1,258 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "The day of the Fan Appreciation Festival \nhad arrived."
+        },
+        {
+            "text": "The school was already crowded with\nfans. Even so, even more people are\nstill expected to come……"
+        },
+        {
+            "text": "So, it was inevitable that that Uma\nwould make her move."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Greetings! Hello everyone! Class\npresident, super-honor student, that's\nme!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "It's Sakura Bakushin O!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "There's a lot of people out here today, \nso be sure to watch out for one another!",
+            "choice_data_list": [
+                "You're working hard.",
+                "You're working hard."
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Trainer-san! Greetings!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Of course, the class president should\nkeep a watchful eye on these kinds of\nevents."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "But though that may be so, today\nis going to be my day to shine even\nbrighter!",
+            "choice_data_list": [
+                "What does that mean?"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "I've registered to run in all sorts of \nevents! Roughly thirty different ones!",
+            "choice_data_list": [
+                "Thirty?!"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "I just wanted to show off my speed to \nas many attendees as possible!",
+            "choice_data_list": [
+                "D, don't do anything rash.",
+                "D, don't do anything rash."
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Roger that!!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "To start with, I'm going to take first\nplace in the \"Spinning Dash\" right after\nthis!"
+        },
+        {
+            "text": "Sakura Bakushin O was awfully\nenthusiastic, but…"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Hmmm!? There's something noisy around \nhere!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Who is it that piques the class\npresident's curiosity―?!"
+        },
+        {
+            "text": "After that…"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Ms. Tachyon! Where are you!?"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Engineering dubious drugs without\npermission is strictly prohibited! You\nmust ask for permissiooon!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Waitwaitwaitwaaaaait!"
+        },
+        {
+            "name": "Male Fan",
+            "text": "Whoa! A gust of wind!"
+        },
+        {
+            "name": "Female Fan",
+            "text": "Ah, my ice cream fell…! \nAwww…."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Hm! A voice coming from an unused \nclassroom!?"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Hiyaaah! \nReveal yourseelf!"
+        },
+        {
+            "name": "Horsegirl A",
+            "text": "Kyaah!?"
+        },
+        {
+            "name": "Horsegirl B",
+            "text": "Th, the wind blew the poster! \nIt totally ripped it… ahh……"
+        },
+        {
+            "text": "At this rate, I'll finally……"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Whew… I can settle down at last! \nWell, it's about time to get to the \ncompeti……"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "……It's already eveningggg!!?"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "The competition is already over!? \nThis can't beee～～!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "There you are, Bakushin O. I've been \nlooking for you."
+        },
+        {
+            "name": "Air Groove",
+            "text": "The award ceremony is about to begin. \nFollow me."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Ohhh!? A commendation!?"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "But I wasn't able to compete in\nanything!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Ah, maybe it's the honor student first \nprize! Then, that makes sense!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "But then, I think I should be winning\nthat award every day!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "You're a noisy one, aren't you… \nJust stop talking and follow me!"
+        },
+        {
+            "name": "Host",
+            "text": "――So, today's \"Best Sprinter\" is Ms. \nSakura Bakushin O!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Ehh!? \n\"Best Sprinter\"!?"
+        },
+        {
+            "name": "Host",
+            "text": "The reason for her vote was that she was \n\"faster than anyone else today.\" \nCongratulations!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Th-this can't be! Although it's true\nthat I'm faster than anyone else!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "A sprinter award? Not an honor student \naward?"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Huuuuh～… \nBummer."
+        },
+        {
+            "text": "Sakura Bakushin O's spirits were a\nlittle low, but in the end, the fan\nappreciation event was a success."
+        },
+        {
+            "name": "Host",
+            "text": "――So, the special award from the student \ncouncil, the \"Good Work\" award, goes to \nSakura Bakushin O!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "The \"Good Work\" award ！！！！"
+        },
+        {
+            "name": "Host",
+            "text": "The way you spent the day running all \naround the school was simply exemplary! \nCongratulations!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Oh…! \nOhhhh～!!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Exemplary!! And that's a seal of\napproval from the student council!!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "I can now say that I am a super-honor\nstudent! And, well, I guess you could\nsay I'm a brilliant class president!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "You'll get an extra prize. The student \ncouncil has a gift for you."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Yaay! \nIt must be a shield, or maybe a trophy!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "No, incorrect."
+        },
+        {
+            "name": "Air Groove",
+            "text": "――It's cleaning up the mess you made\nwhile you were running around!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "In the hallway! In front of the school\ngate! The classroom! The racecourse!\nI'll have every last one of them\nspotless!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Shooock!?"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "But, let us accept this! It is said that\n\"the bird that rises rides on the wind.\""
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "I'm Sakura Bakushin O, receiver of the \n\"Good Work\" award! Let us clean with \ngrace!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Bakushiiiin! \nFlapflaaaaap!!"
+        },
+        {
+            "text": "(Thump, crash, bang!!)"
+        },
+        {
+            "name": "Air Groove",
+            "text": "I told you not to make an even larger\nmess!"
+        },
+        {
+            "text": "At any rate, the Fan Appreciation\nFestival ended up being a huge success!"
+        }
+    ]
+}

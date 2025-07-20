@@ -1,0 +1,21 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Daiichi Ruby",
+            "text": "You heard the sound of a violin \nfrom the school building……?"
+        },
+        {
+            "name": "Daiichi Ruby",
+            "text": "Indeed, that seems to be the time \nthat I was playing. Did the sound \ninterfere with your work?"
+        },
+        {
+            "name": "Daiichi Ruby",
+            "text": "…… I understand. I will keep \nthat in mind next time."
+        },
+        {
+            "name": "Daiichi Ruby",
+            "text": "There is still much for me to learn."
+        }
+    ]
+}

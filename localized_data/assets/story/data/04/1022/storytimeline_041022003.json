@@ -1,0 +1,268 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Father, wait here! \nI'll be there like 'whoooosh' really soon! Ready…",
+            "name": "Young Fine Motion"
+        },
+        {
+            "text": "(Running…I loved it, I think. Probably, long ago.)",
+            "name": "Fine Motion"
+        },
+        {
+            "text": "(But, I understood. My normal course was a small \ngarden surrounded by tall, rock walls. The goal \nwas always the clover field in the corner.)",
+            "name": "Fine Motion"
+        },
+        {
+            "text": "(I was fine with that. I wasn't dissatisfied.)",
+            "name": "Fine Motion"
+        },
+        {
+            "text": "The clash of dreams, a momentary glimmer, a serious race…! \nAwesome! So cool!",
+            "name": "Fine Motion"
+        },
+        {
+            "text": "\"Japan Uma Musume Training Center Academy\"! \nI want to go there too…!",
+            "name": "Fine Motion"
+        },
+        {
+            "text": "(Dissatisfied…)",
+            "name": "Fine Motion",
+            "choice_data_list": [
+                "Fine!!"
+            ]
+        },
+        {
+            "text": "Wa, you're! Um, what's wrong? \n…you've got a scary look on your face.",
+            "name": "Fine Motion"
+        },
+        {
+            "text": "Since then, I've been thinking. About the burden of her duty, \nabout my resolve to bear some of that burden. But still-",
+            "choice_data_list": [
+                "I really want to hear your thoughts ",
+                "I really want to hear your thoughts "
+            ]
+        },
+        {
+            "text": "My thoughts? About…what we spoke about a while ago, about \n\"Being satisfied with just this\"?",
+            "name": "Fine Motion"
+        },
+        {
+            "text": "Hmmm, my answer… won't change, I suppose.",
+            "name": "Fine Motion"
+        },
+        {
+            "text": "I'm very happy you're concerned about me! But, you \nsee, in the first place- compared to the other girls \nat this school, I'm a different Uma Musume.",
+            "name": "Fine Motion"
+        },
+        {
+            "text": "For the family and people I must protect, to devote \nmyself to their long term peace and prosperity. That \nis my duty. My pride. The reason I'm here.",
+            "name": "Fine Motion"
+        },
+        {
+            "text": "You see? I wasn't born for the sake of running.",
+            "name": "Fine Motion"
+        },
+        {
+            "text": "Every single word she spoke of while smiling, \nwas extremely heavy. …But, even so.",
+            "choice_data_list": [
+                "<size=33>Not your \"Reason\", I want to hear your \"Feelings\"</size>"
+            ]
+        },
+        {
+            "text": "!",
+            "name": "Fine Motion"
+        },
+        {
+            "text": "Royalty. Her duty. Her responsibility. \nThe reason she spoke of, it's all correct. But, even so-!",
+            "choice_data_list": [
+                "<size=38>Those aren't reasons to give up your dream</size>",
+                "<size=38>Those aren't reasons to give up your dream</size>"
+            ]
+        },
+        {
+            "text": "Dreams…",
+            "name": "Fine Motion"
+        },
+        {
+            "text": "Dreams…mine…? \n…",
+            "name": "Fine Motion"
+        },
+        {
+            "text": "Fine Motion suddenly fell silent. \nShe probably needs a trigger for the sake of facing her feelings."
+        },
+        {
+            "text": "That's why-"
+        },
+        {
+            "text": "The hell d'you say?…a mock race against Fine?",
+            "name": "Air Shakur"
+        },
+        {
+            "text": "Is your memory 0 bytes? Don't make me say it again, bastard. \nDidn't I tell you not to half-heartedly stick your nose in!",
+            "name": "Air Shakur",
+            "choice_data_list": [
+                "I am resolved.",
+                "I am resolved."
+            ]
+        },
+        {
+            "text": "…Aaah?",
+            "name": "Air Shakur"
+        },
+        {
+            "text": "You shouldn't speak so lightly, Trainer-sama.",
+            "name": "SP Commander",
+            "choice_data_list": [
+                "!!"
+            ]
+        },
+        {
+            "text": "Heh, they've got their eyes on you.",
+            "name": "Air Shakur"
+        },
+        {
+            "text": "Excuse me, but you don't seem to understand the \nseriousness of the situation. This will expose \na noble person to unnecessary danger.",
+            "name": "SP Commander"
+        },
+        {
+            "text": "-Even you yourself, may lose everything.",
+            "name": "SP Commander",
+            "choice_data_list": [
+                "Like I said, I am resolved."
+            ]
+        },
+        {
+            "text": "…No, you clearly do not understand! \nAs someone who's duty is to protect Her Highness, I must firmly-",
+            "name": "SP Commander",
+            "choice_data_list": [
+                "<size=29>Supporting their dreams with everything I have is my job!</size>",
+                "<size=29>Supporting their dreams with everything I have is my job!</size>"
+            ]
+        },
+        {
+            "text": "…!",
+            "name": "SP Commander"
+        },
+        {
+            "text": "Tch… whatever, this is annoying.",
+            "name": "Air Shakur"
+        },
+        {
+            "text": "And? When are we doing this mock race?",
+            "name": "Air Shakur",
+            "choice_data_list": [
+                "Shakur…!"
+            ]
+        },
+        {
+            "text": "Commander…will you really overlook this? \nIt's a mock race, after all.",
+            "name": "Fine Motion"
+        },
+        {
+            "text": "Trainer-sama is here to fully support Your Highness, \neven risking her entire existence. On top of that, \nif Your Highness also wishes it-",
+            "name": "SP Commander"
+        },
+        {
+            "text": "…As someone who's been by your side watching over your labors, \nI can do no more to stop you… do as your heart desires.",
+            "name": "SP Commander"
+        },
+        {
+            "text": "I want to-",
+            "name": "Fine Motion"
+        },
+        {
+            "text": "Hey! How long do you plan on standing over there?!",
+            "name": "Air Shakur"
+        },
+        {
+            "text": "Or what? Since you've come this far, you're not going to say \nsomething stupid like \"Even without running I'm satisfied\" right?",
+            "name": "Air Shakur"
+        },
+        {
+            "text": "…Shakur.",
+            "name": "Fine Motion"
+        },
+        {
+            "text": "Don't act like you understand just by watching from \n\"Over There\", Your Royal Highness. \"Over Here\" this \npassion, this intensity, isn't so simple.",
+            "name": "Air Shakur"
+        },
+        {
+            "text": "Let's go, Fine. -I won't let you say you don't want to know.",
+            "name": "Air Shakur"
+        },
+        {
+            "text": "And so - the mock race between these two, finally, began!"
+        },
+        {
+            "text": "Haa, haa, haa, haa…!",
+            "name": "Fine Motion"
+        },
+        {
+            "text": "(Incredible, with each step my entire leg trembles. \nThe scenery goes rushing by. My heart is unbearably \nloud…I… right now, I'm running!!)",
+            "name": "Fine Motion"
+        },
+        {
+            "text": "Ha! Oi oi! Is that all you got, Your Royal Highness?!",
+            "name": "Air Shakur"
+        },
+        {
+            "text": "(Shakur…! What pressure-…I'm getting goosebumps! Just like \nthis, it seems I'll be overwhelmed!! But…But, why is it?!)",
+            "name": "Fine Motion"
+        },
+        {
+            "text": "It seems even now…still, I can run!! \n-HAAAAAAAAAAAAA!!",
+            "name": "Fine Motion"
+        },
+        {
+            "text": "! Heh, looks like you can handle it…! \nBut, I won't let you! ORAAAAAAAAAAA!!",
+            "name": "Air Shakur"
+        },
+        {
+            "text": "AAAAAAAAAH…!!",
+            "name": "Fine Motion"
+        },
+        {
+            "text": "(Aah… amazing. My heart is pounding. My soul is crying out! \n\"Faster\" \"Keep Moving Forward\" \"Run\", \"RUN!\")",
+            "name": "Fine Motion"
+        },
+        {
+            "text": "I am-…I'm also…!",
+            "name": "Fine Motion"
+        },
+        {
+            "text": "Haaa…haaa…haaa…",
+            "name": "Both"
+        },
+        {
+            "text": "-Heh. It's my win.",
+            "name": "Air Shakur"
+        },
+        {
+            "text": "Fufuu…yeah. It's extremely frustrating!",
+            "name": "Fine Motion",
+            "choice_data_list": [
+                "…Fine."
+            ]
+        },
+        {
+            "text": "Trainer!…Thank you. \nThank you, for giving me the chance to face my own feelings.",
+            "name": "Fine Motion"
+        },
+        {
+            "text": "Also, I'm sorry. I told a lie.",
+            "name": "Fine Motion"
+        },
+        {
+            "text": "I… don't want to return home just yet.",
+            "name": "Fine Motion"
+        },
+        {
+            "text": "Because I want to stay here. \nAnd run. More and more…!",
+            "name": "Fine Motion"
+        },
+        {
+            "text": "Boldly declaring that, her eyes shone brightly. \nBrighter than any time before this."
+        }
+    ]
+}

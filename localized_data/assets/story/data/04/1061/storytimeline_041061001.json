@@ -1,0 +1,224 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Soon, a big event to determine the abilities of horse girls would \nbe underway, the day of the Selection Race was coming."
+        },
+        {
+            "text": "In preparation for that race, \nI'm heading to the training course"
+        },
+        {
+            "name": "King Halo",
+            "text": "Haven't I told you already!!"
+        },
+        {
+            "name": "King Halo",
+            "text": "I do have the talent! I'll absolutely show my abilities in \nthis Selection Race and get myself a first-class trainer!"
+        },
+        {
+            "name": "King Halo",
+            "text": "I have no intention of discussing this any further! \nGoodbye!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Ha… Good grief. \nA phone call at a time like this—"
+        },
+        {
+            "name": "King Halo",
+            "text": "EH, AAAH!? W-WHO ARE YOU?! \nDON'T TELL ME A SUSPICIOUS PERSON?!",
+            "choice_data_list": [
+                "Nonono!"
+            ]
+        },
+        {
+            "text": "I explained I was a new trainer \nto clear up the misunderstanding."
+        },
+        {
+            "name": "King Halo",
+            "text": "My, was that so, excuse me. But, it's rare to see \nKing make a mistake like that so let's call it even!"
+        },
+        {
+            "name": "King Halo",
+            "text": "…Hey, what's with that confused expression. \n…Don’t tell me, you don’t actually appreciate this!?"
+        },
+        {
+            "name": "King Halo",
+            "text": "Well then you… \nHow dare you not know of me!?",
+            "choice_data_list": [
+                "I-I'm sorry…?",
+                "I-I'm sorry…?"
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "How horrible!! You're making me want to cry! \nCome with me night this instant!!"
+        },
+        {
+            "text": "…Dragged almost forcibly, I was \nmade to follow her to central square."
+        },
+        {
+            "name": "King Halo",
+            "text": "Alright, assemble!!"
+        },
+        {
+            "name": "Followers",
+            "text": "Yes～!"
+        },
+        {
+            "name": "Cat-eyed Horsegirl",
+            "text": "What’s up King, did something happen?"
+        },
+        {
+            "name": "Bob-cut Horsegirl",
+            "text": "Who’s this person～?"
+        },
+        {
+            "name": "King Halo",
+            "text": "A rookie trainer. But it seems like he doesn’t know \nanything about King. Don't you think that's just horrible?"
+        },
+        {
+            "name": "King Halo",
+            "text": "Sc can I ask you two for the usual?"
+        },
+        {
+            "name": "Followers",
+            "text": "Roger～!!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Ufufu, good answer! \nWell then, here we go!"
+        },
+        {
+            "name": "King Halo",
+            "text": "My name is?"
+        },
+        {
+            "name": "Followers",
+            "text": "King!!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Stronger than anyone else?"
+        },
+        {
+            "name": "Cat-eyed Horsegirl",
+            "text": "The victor!"
+        },
+        {
+            "name": "King Halo",
+            "text": "And her future is?"
+        },
+        {
+            "name": "Bob-cut Horsegirl",
+            "text": "Shining brightly! A horse girl looked \nup to more than anyone else!"
+        },
+        {
+            "name": "King Halo",
+            "text": "That's right! When you think \"first-class \nhorse girl\" you think of me!"
+        },
+        {
+            "name": "King Halo-ers",
+            "text": "King Halo!!"
+        },
+        {
+            "text": "……………………"
+        },
+        {
+            "name": "King Halo",
+            "text": "…Hey you, stop staring into space! \nWhere's the applause, huh!? The applause!"
+        },
+        {
+            "name": "King Halo",
+            "text": "The great King went out of her way to introduce \nherself just for you! Applaud while weeping in tears!",
+            "choice_data_list": [
+                "That was a self-introduction…?",
+                "That was a self-introduction…?"
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "Yes, that's right. I conveyed it well didn't I? \nThat the elegant, noble, and pretty King is the \nvery meaning of first-class horse girl."
+        },
+        {
+            "name": "King Halo",
+            "text": "Now you along with the rest of the school, understand the \nsplendor of King's glory, intellect, and expectations don't you?",
+            "choice_data_list": [
+                "Um…"
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "Why!? I gave you a very easy to understand \nexplanation didn't I!? You dimwit!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Good grief… since it's come to this, one more time! \nNow, you two! Get ready!"
+        },
+        {
+            "name": "Cat-eyed Horsegirl",
+            "text": "But King, is it okay for you to still be here?"
+        },
+        {
+            "name": "Cat-eyed Horsegirl",
+            "text": "Didn't you say you were gonna enter the \nSelection Race and train with everyone today?"
+        },
+        {
+            "name": "King Halo",
+            "text": "…Ah."
+        },
+        {
+            "text": "At the training course, competing horse girls and \ntrainers that came to spectate the race had already arrived."
+        },
+        {
+            "name": "King Halo",
+            "text": "Ha… Ha… Ohohoho! King has come to train! \nKept you waiting didn't I! Ohoho… goho."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Oh geez, King, did you run here at full speed cause you thought \nyou'd be late～? Don't push yourself, how about you rest a bit."
+        },
+        {
+            "name": "King Halo",
+            "text": "Th-there's no need for such a thing!! Besides, look around. \nThere's so many trainers that have come to see King's abilities!"
+        },
+        {
+            "name": "King Halo",
+            "text": "I can't waste time resting! \nOhhohoho!!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Wa… in many ways, this was expected～."
+        },
+        {
+            "name": "Special Week",
+            "text": "Ah, you came too huh, King-chan? I was just about to \nstart using the course but do you wanna run together?"
+        },
+        {
+            "name": "King Halo",
+            "text": "Of course! You come too Sky-san, I'll give you \nthe privilege of being overwhelmed by me!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Okay, I've got first!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Ah!? Hey, don't run away!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Eh, we started already!? \nWait up～!"
+        },
+        {
+            "name": "Veteran Trainer A",
+            "text": "Haha, the escape and skip devil Seiun Sky, the \nhardworking Special Week, and the daughter of \na strong household King Halo, huh."
+        },
+        {
+            "name": "Rookie Trainer A",
+            "text": "They're some truly unique and interesting girls, aren't they! I'm \nlooking forward to the Selection Race they'll be taking part in!"
+        },
+        {
+            "text": "For a while I relaxed watching King Halo and \nand the others happily train together…"
+        }
+    ]
+}

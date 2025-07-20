@@ -1,0 +1,148 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "It was a calm day in the early summer, \nshortly after a big race."
+        },
+        {
+            "text": "A break, is it?",
+            "name": "Yaeno Muteki",
+            "choice_data_list": [
+                "Yeah. A chance to refresh!",
+                "Yeah. A chance to refresh!"
+            ]
+        },
+        {
+            "text": "――I see, this is a plan with my well-being in mind. Then this \nYaeno Muteki will pour her body and soul in to taking a break!",
+            "name": "Yaeno Muteki"
+        },
+        {
+            "text": "It was only for a few days and classes were currently \nlow intensity, so I wanted her to spread her wings a \nlittle bit. That was my reasoning behind the break."
+        },
+        {
+            "text": "The next day after school. \nI was passing by the training course on my way back――"
+        },
+        {
+            "text": "……Huuu. It was a worthwhile training session.",
+            "name": "Yaeno Muteki",
+            "choice_data_list": [
+                "Huh!?"
+            ]
+        },
+        {
+            "text": "Ah! This is, well, how should I put it……!",
+            "name": "Yaeno Muteki"
+        },
+        {
+            "text": "I apologize, I understand I'm supposed to be taking a break! \nBut I just can't calm down unless I'm doing some training.",
+            "name": "Yaeno Muteki"
+        },
+        {
+            "text": "……Yaeno Muteki's straightforwardness was part of her charm \nand her strength. But I really want her to take a break now!",
+            "choice_data_list": [
+                "<size=42>Anyways, no training during this break!</size>"
+            ]
+        },
+        {
+            "text": "Haa……! I apologize for worrying you. \nI'm ashamed of my own immaturity……!",
+            "name": "Yaeno Muteki"
+        },
+        {
+            "text": "……Going forward, I will definitely keep this mistake in mind. \nI will immediately get changed and return to my dorm……I'm sorry.",
+            "name": "Yaeno Muteki"
+        },
+        {
+            "text": "And that was how we parted that day…… \nBut could Yaeno Muteki really put her 『Training on Hold』?"
+        },
+        {
+            "text": "And then on the second day of Yaeno Muteki's break."
+        },
+        {
+            "text": "She's not here――"
+        },
+        {
+            "text": "She's not here either――"
+        },
+        {
+            "text": "And she isn't here either."
+        },
+        {
+            "text": "After what happened yesterday, I looked around the multiple training \nspaces around campus……Yaeno Muteki was nowhere to be found."
+        },
+        {
+            "text": "Maybe she's staying in the dorms or out with her friends. If she \nwas resting, I figured I should head in to town and do some shopping!"
+        },
+        {
+            "text": "On the way home, I decided to take a small detour. \nThis was a place filled with memories. That day――"
+        },
+        {
+            "text": "Suuu――………… \nFuuー…………。",
+            "name": "Yaeno Muteki"
+        },
+        {
+            "text": "――Fuu! ……Haaa! \n……Seii! ……Taaa!",
+            "name": "Yaeno Muteki"
+        },
+        {
+            "text": "Right, even back then, she was alone, devoting \nherself to training. Her graceful movements were \nproof of that training. That was how I felt――"
+        },
+        {
+            "text": "126…… 127……",
+            "name": "Yaeno Muteki"
+        },
+        {
+            "text": "Right, just like that, Yaeno Muteki \nwas devoting herself to training――",
+            "choice_data_list": [
+                "――Wait, eh!? It's really her!?"
+            ]
+        },
+        {
+            "text": "……Ah.",
+            "name": "Yaeno Muteki"
+        },
+        {
+            "text": "Wha-……what a coincidence, huh? \nWere you also taking a walk?",
+            "name": "Yaeno Muteki",
+            "choice_data_list": [
+                "<size=40>You were training just now, weren't you?</size>",
+                "<size=40>You were training just now, weren't you?</size>"
+            ]
+        },
+        {
+            "text": "……Yes I was……!",
+            "name": "Yaeno Muteki"
+        },
+        {
+            "text": "In order to comply with your instructions, I left \nthe school, with all of its training facilities, \nand that went well in the beginning but……",
+            "name": "Yaeno Muteki"
+        },
+        {
+            "text": "As soon as I saw this underpass, I was filled with \na sudden sense of nostalgia and motiviation…… \nThere's no excuse. My shamelessness knows no bounds!",
+            "name": "Yaeno Muteki"
+        },
+        {
+            "text": "This is a bit difficult to handle on my own…… \nHow should I put it? I panicked, since I felt \nthat if I had free time I should train……",
+            "name": "Yaeno Muteki"
+        },
+        {
+            "text": "Was it because she couldn't train to her satisfaction \nor because she struggled with taking breaks? Maybe both?――\nShe hung her head in dejection.",
+            "choice_data_list": [
+                "<size=43>……Alright, let's do some light training</size>"
+            ]
+        },
+        {
+            "text": "B-but Trainer-dono, you felt there was \nsignificance in me taking a break……",
+            "name": "Yaeno Muteki",
+            "choice_data_list": [
+                "<size=40>I wasn't trying to completely stop you……</size>"
+            ]
+        },
+        {
+            "text": "……! Ossu! \nThen I shall continue my current training!",
+            "name": "Yaeno Muteki"
+        },
+        {
+            "text": "In the end, she continued training until sunset. It seemed like \nhaving Yaeno Muteki get some rest would be a difficult task……!"
+        }
+    ]
+}

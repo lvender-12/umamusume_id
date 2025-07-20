@@ -1,0 +1,32 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Gooood… mor… ning……",
+            "choice_data_list": [
+                "You look sleepy.",
+                "You look sleepy."
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Indeed… I've been thinking until dawn\nfor the past few days…"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "But because of that, I've come up with \nsomething…! \nProposed class goals for next month, 100 \nof them!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Now we just need to achieve one――"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Yaaaaa～～～～～wn… \nNn… I'll do…'mbest."
+        },
+        {
+            "text": "As class president, she cares about her\nclass so much that she doesn't seem to\nbe sleeping very well…"
+        }
+    ]
+}

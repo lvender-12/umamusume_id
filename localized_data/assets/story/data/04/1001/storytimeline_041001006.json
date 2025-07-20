@@ -1,0 +1,252 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Special Week",
+            "text": "After that, err… Uhhh… Hmmm…"
+        },
+        {
+            "text": "On a holiday, I spotted Special Week who was at her wits end, \nwith a troubled look. As I reached out to her…"
+        },
+        {
+            "name": "Special Week",
+            "text": "Ah, Trainer-san! I'm trying to rehearse \nguiding a sightseeing tour.",
+            "choice_data_list": [
+                "Sightseeing tour?"
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "Mom will be coming here for a visit soon. She said \nshe wanted to see if I've settled in here!"
+        },
+        {
+            "name": "Special Week",
+            "text": "I thought I'd show her the attractions here, and tell her \"I know \nthis town like the back of my hand!\""
+        },
+        {
+            "name": "Special Week",
+            "text": "That's why I've been running through my tour guide for her…"
+        },
+        {
+            "name": "Special Week",
+            "text": "But it's still not quite up to snuff. Ahaha~!",
+            "choice_data_list": [
+                "I can help out if you want.",
+                "I can help out if you want."
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "R-Really!? Waah! Thank you! "
+        },
+        {
+            "name": "Special Week",
+            "text": "Then, can you play the role of my Mom? That'll \nwork nicely as a practical training!",
+            "choice_data_list": [
+                "Of course."
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "Hurray! Let's have a fun time together, Mom-of-the-Day!"
+        },
+        {
+            "text": "And just like that, Special Week's sightseeing \ntour kicked off, but then…"
+        },
+        {
+            "name": "Special Week",
+            "text": "Uhhhhh… this way, maybe? Or the other way?…I'm \npretty sure that's the right way, yeah."
+        },
+        {
+            "name": "Special Week",
+            "text": "I-It's all good! If I'm reading my phone right, \nthe mall should be just a few steps ahead!"
+        },
+        {
+            "name": "Special Week",
+            "text": "…Wait, what? Isn't this… Ah, I knew it! I was \nso absorbed in reading the map I didn't notice."
+        },
+        {
+            "name": "Special Week",
+            "text": "Ehehe! This is a place I often stop by."
+        },
+        {
+            "name": "Special Week",
+            "text": "It's so quiet around here. I get to \nspend my time here at leisure.",
+            "choice_data_list": [
+                "You like this spot, don't you.",
+                "You like this spot, don't you."
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "I do! Although the scenery here isn't the same as Hokkaido…"
+        },
+        {
+            "name": "Special Week",
+            "text": "I like to think that Mom is somewhere under the same sky."
+        },
+        {
+            "name": "Special Week",
+            "text": "That thought makes me feel motivated and all charged up…"
+        },
+        {
+            "name": "Special Week",
+            "text": "Anyways, we'll visit the shopping arcade afterwards! There's a \nstore selling delicious pickled vegetables~!"
+        },
+        {
+            "name": "Special Week",
+            "text": "This way, this way! In fact, there's a shortcut around here…"
+        },
+        {
+            "name": "Elder Greengrocer Lady",
+            "text": "My, Spe-chan! Are you dropping by again \ntoday for some more pickles?"
+        },
+        {
+            "name": "Special Week",
+            "text": "Yes! The usual special pickled vegetables, please!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Ehehe ♪ The pickles here are crunchy delicacies!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Aha! Speaking of specially made…"
+        },
+        {
+            "name": "Special Week",
+            "text": "Ta-da! My specially made mix ed juice!"
+        },
+        {
+            "name": "Special Week",
+            "text": "A one-and-only flavor made from the self-serving bar! Its taste \nis something to look forward to~ ♪"
+        },
+        {
+            "text": "A cup filled with a brown liquid was placed on the table. \nHowever, it looked nothing like juice…"
+        },
+        {
+            "name": "Special Week",
+            "text": "Whenever I come here to study for my tests with El-chan and the \nothers, we'd make sure we prepare a cup of this!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Whoever falls asleep, or answers a question \nwrong… will have to gulp it down!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Well, most of the time it's me who ends \nup drinking this. Ahahahaha…"
+        },
+        {
+            "name": "Special Week",
+            "text": "It tastes as \"Ewww~~!!\" as you can imagine. \nBut still… I like this juice!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Together, we share moments of chatter, laughter, and excitement. \nAnd this juice… is a blend of these pleasant feelings.",
+            "choice_data_list": [
+                "Then… I better give this a taste!",
+                "Then… I better give this a taste!"
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "Yeah! Go on and gulp it down, if you please! I'll order a carrot \nhamburger steak for you to help get rid of the bad taste."
+        },
+        {
+            "name": "Special Week",
+            "text": "Unlike the steak Mom used to make, which has the taste of home, \nthe steak here is thrillingly delicious!",
+            "choice_data_list": [
+                "I'm stoked!",
+                "I'm stoked!"
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "Ehehe♪ Guess I'll order another one for myself!…Excuse \nme, one carrot hamburger steak please!"
+        },
+        {
+            "text": "After the meal, Special Week continued her tour of the town."
+        },
+        {
+            "name": "Special Week",
+            "text": "(♪ Humming ♪) It's already evening, \nhuh. Let's head back home~…Hol-"
+        },
+        {
+            "name": "Special Week",
+            "text": "Ahhhhhhhhhhh!!!!"
+        },
+        {
+            "name": "Special Week",
+            "text": "The attractions! They entirely slipped my mind!! Before I knew \nit, the only places we visited are those I'd often go to!"
+        },
+        {
+            "name": "Special Week",
+            "text": "I totally did not notice… What am I gonna do…!?"
+        },
+        {
+            "name": "Special Week",
+            "text": "Mom said she wanted to see if I've settled in here… She's gonna \nbe disappointed with a tour like this.",
+            "choice_data_list": [
+                "It's pretty convincing that ou have indeed settled in.",
+                "It's pretty convincing that ou have indeed settled in."
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "B-But… There are also riversides and arcades up in Hokkaido."
+        },
+        {
+            "name": "Special Week",
+            "text": "So I figured… if I show her the unique \nspots here, she'd be more relieved.",
+            "choice_data_list": [
+                "She has got to be relieved seeing you \njust as accustomed to living here.",
+                "She has got to be relieved seeing you \njust as accustomed to living here."
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "Eh…?"
+        },
+        {
+            "name": "Special Week",
+            "text": "Ah, right… I was completely new to this place back when I just \ngot here, but now I've pretty much settled in."
+        },
+        {
+            "name": "Special Week",
+            "text": "Trainer-san, thank you for reminding me what's more important!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Alright! I'm gonna delight Mom with a \ntour that reflects the current me~!"
+        },
+        {
+            "text": "( Gwwarrrrr~ ~ )"
+        },
+        {
+            "name": "Special Week",
+            "text": "Uwaah, right as I lighten up, my stomach \nbutted in… A-Ahahahaha…"
+        },
+        {
+            "name": "Special Week",
+            "text": "Uhh… Ah, yes! How about we visit just \none more place while we're at it?"
+        },
+        {
+            "name": "Special Week",
+            "text": "To my favourite supersize ramen place we go!",
+            "choice_data_list": [
+                "S-supersize!?"
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "You heard that right! They serve what's called \nthe \"Supersize Mega Deluxe Ramen\","
+        },
+        {
+            "name": "Special Week",
+            "text": "Come now, Trainer-san! Let's get going!"
+        },
+        {
+            "text": "…Determined to stop her at all costs for fear \nthat this overeating might take its toll on he \nraces, I chased after her in a fluster."
+        }
+    ]
+}

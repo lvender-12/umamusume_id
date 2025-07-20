@@ -1,0 +1,280 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "Let's wrap up the training for today... Hmm?",
+            "name": "Mejiro McQueen"
+        },
+        {
+            "text": "What's wrong, McQueen?",
+            "name": "<username>"
+        },
+        {
+            "text": "It's just... She's been staring at me for a while...",
+            "name": "Mejiro McQueen"
+        },
+        {
+            "text": "Ah!",
+            "name": "Rice Shower"
+        },
+        {
+            "text": "Is she acquainted with you, Trainer?",
+            "name": "Mejiro McQueen"
+        },
+        {
+            "text": "No, not really... But she's...",
+            "name": "<username>"
+        },
+        {
+            "text": "Phew! Another splendid training today! Now it's time \nfor my long-awaited \"McQueen rolling\" session!",
+            "name": "Gold Ship"
+        },
+        {
+            "text": "Excuse me?! What in heavens is that nonsensically named \nscheme supposed to be?! I won't let you have it your way!",
+            "name": "Mejiro McQueen"
+        },
+        {
+            "text": "Ah! Wait, McQueen!",
+            "name": "Gold Ship"
+        },
+        {
+            "text": ".........",
+            "name": "<username>"
+        },
+        {
+            "text": "This horsegirl... I wouldn't call her an acquaintance \nbut I know her. She usually continues to train by \nherself deep into the evenings."
+        },
+        {
+            "text": "*huff huff*",
+            "name": "Rice Shower"
+        },
+        {
+            "text": "Today is no exception. She's still running on, \nas the only one left on the course."
+        },
+        {
+            "text": "*huff huff* Whoa!!",
+            "name": "Rice Shower"
+        },
+        {
+            "text": "*Crash!*"
+        },
+        {
+            "text": "Uff... Ouch...",
+            "name": "Rice Shower"
+        },
+        {
+            "text": "No matter how hard I train... \nI just can't...",
+            "name": "Rice Shower"
+        },
+        {
+            "text": "She reminds me a lot of Mejiro McQueen \nwhen she was working so hard for the Tenno Sho."
+        },
+        {
+            "text": "Are you okay?",
+            "name": "<username>"
+        },
+        {
+            "text": "Are you okay?",
+            "name": "<username>"
+        },
+        {
+            "text": "Eh? Ah... You're... McQueen's trainer...",
+            "name": "Rice Shower"
+        },
+        {
+            "text": "",
+            "name": "<username>"
+        },
+        {
+            "text": "You should take it easy for the rest of today with \nyour injured leg. Especially if you want to win races.",
+            "name": "<username>"
+        },
+        {
+            "text": "And even if you can't go full strength right now, \nyou can win. You just need to believe in yourself!",
+            "name": "<username>"
+        },
+        {
+            "text": "*sniffle* \n*sob*",
+            "name": "Rice Shower"
+        },
+        {
+            "text": "Wha—?! D-Does your leg hurt that much?",
+            "name": "<username>"
+        },
+        {
+            "text": "Wha—?! D-Does your leg hurt that much?",
+            "name": "<username>"
+        },
+        {
+            "text": "N-No, that's not it...",
+            "name": "Rice Shower"
+        },
+        {
+            "text": "I just love running. And yet, I've never won a race... \nBut after I saw McQueen run...",
+            "name": "Rice Shower"
+        },
+        {
+            "text": "I wanted to win, too!",
+            "name": "Rice Shower"
+        },
+        {
+            "text": "For her mind to constantly dwell on the feeling \nof wanting to win... She has a lot of mental strength."
+        },
+        {
+            "text": "Me, in the Derby...?",
+            "name": "Rice Shower"
+        },
+        {
+            "text": "Looks like you understand now. \nI've seen you run for long enough, I'm certain of it.",
+            "name": "<username>"
+        },
+        {
+            "text": "Looks like you understand now. \nI've seen you run for long enough, I'm certain of it.",
+            "name": "<username>"
+        },
+        {
+            "text": "N-No way... \nI'm not nearly good enough...",
+            "name": "Rice Shower"
+        },
+        {
+            "text": "I knew she'd get scared, of course. The Derby is where \nthe best of the best fight over glory and honor."
+        },
+        {
+            "text": "And Rice... She has the strength to able to keep up with \nMejiro McQueen. But what's most important above all...",
+            "choice_data_list": [
+                ""
+            ]
+        },
+        {
+            "text": "Ah...",
+            "name": "Rice Shower"
+        },
+        {
+            "text": "A strong drive to push yourself to your limits to win. \nWhich comes forth through self-confidence.",
+            "name": "<username>"
+        },
+        {
+            "text": "Rice, let's work towards the Derby 'kay?",
+            "name": "<username>"
+        },
+        {
+            "text": "Y-Yes! I will try!",
+            "name": "Rice Shower"
+        },
+        {
+            "text": "This marks the start of her all-out training. \nLet's conquer the Derby!"
+        },
+        {
+            "text": "So you're saying I should keep following McQueen?",
+            "name": "Rice Shower"
+        },
+        {
+            "text": "Correct. No matter what happens, \ntry to stay following after her.",
+            "name": "<username>"
+        },
+        {
+            "text": "Correct. No matter what happens, \ntry to stay following after her.",
+            "name": "<username>"
+        },
+        {
+            "text": "You'll have to face this Derby's favorite. \nThe undefeated Mihono Bourbon.",
+            "name": "Mejiro McQueen"
+        },
+        {
+            "text": "She's a bigwig, able to run with a perfect pace. \nAlmost like a machine.",
+            "name": "Mejiro McQueen"
+        },
+        {
+            "text": "If you want to beat her, you'll need to be follow me \nand stay with me throughout.",
+            "name": "Mejiro McQueen"
+        },
+        {
+            "text": "I understand. I'll try my best to follow you.",
+            "name": "Rice Shower"
+        },
+        {
+            "text": "Staying right behind Mejiro McQueen will require \na lot of stamina and focus."
+        },
+        {
+            "text": "Rice Shower wasn't able to stay close for a while. \nBut she kept persevering. Until, a few days later..."
+        },
+        {
+            "text": "*huff huff*",
+            "name": "Mejiro McQueen"
+        },
+        {
+            "text": "*pant wheeze*",
+            "name": "Rice Shower"
+        },
+        {
+            "text": "You done did it this time! \nYou didn't fall behind at all!",
+            "name": "Gold Ship"
+        },
+        {
+            "text": "Indeed. Your stamina will be your weapon, Rice.",
+            "name": "Mejiro McQueen",
+            "choice_data_list": [
+                ""
+            ]
+        },
+        {
+            "text": "O-Okay!",
+            "name": "Rice Shower"
+        },
+        {
+            "text": "A good night to everyone!",
+            "name": "Mejiro McQueen"
+        },
+        {
+            "text": "See ya!",
+            "name": "Gold Ship"
+        },
+        {
+            "text": "See you tomorrow!",
+            "name": "Horsegirl with Straight-cut Bangs"
+        },
+        {
+            "text": "Follow... Follow...",
+            "name": "Rice Shower"
+        },
+        {
+            "text": ".........",
+            "name": "Mejiro McQueen"
+        },
+        {
+            "text": "Follow... Follow...",
+            "name": "Rice Shower"
+        },
+        {
+            "text": "*sigh*",
+            "name": "Mejiro McQueen"
+        },
+        {
+            "text": "Follow... Follow...",
+            "name": "Rice Shower"
+        },
+        {
+            "text": "Um... Rice?",
+            "name": "Mejiro McQueen"
+        },
+        {
+            "text": "Eh?",
+            "name": "Rice Shower"
+        },
+        {
+            "text": "Do you really want to sleep here again...? \nI would like to have a bit of privacy, you know...",
+            "name": "Mejiro McQueen"
+        },
+        {
+            "text": "But Trainer said I should follow you, no matter what...!",
+            "name": "Rice Shower"
+        },
+        {
+            "text": "(That's not what they meant with that...!)",
+            "name": "Mejiro McQueen"
+        },
+        {
+            "text": "Another few days later — The day of the Twinkle \nSeries' major event, the Nippon Derby, has arrived."
+        }
+    ]
+}

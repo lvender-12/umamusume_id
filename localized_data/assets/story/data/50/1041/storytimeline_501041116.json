@@ -1,0 +1,121 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day, Sakura Bakushin O was training\nto further improve her speed in order\nto win by a large margin over Nishino\nFlower…"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Trainer! \nBench press has been completed!",
+            "choice_data_list": [
+                "Okay, 10-minute break!"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "There is no need for a break! \nI can still keep going!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "So, please do send over your next muscle \ntraining…"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Ahh! That gaze!!"
+        },
+        {
+            "name": "Both",
+            "text": "……"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Hyaaaah! I was quite startled!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "What's the matter, you two? \nYou're just staaaaring at me."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "However, I can see why you'd be so \nenamored with my hard work!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Ha! \nSo, you're studying me as a rival!?"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Well, I thought Ms. Bakushin O was\nworking really hard, so I…"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "I see! I knew you were here to\ncompliment me. Thank you very much!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "But this kind of training is only\nnatural if you're trying to achieve\nspeed."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "A high-impact workout that efficiently \ntrains muscle reflexes…"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "I've concluded that you are making the \nshortest possible effort to becoming a \nshort-distance champion."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Short-distance champion!?"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "No, I didn't plan on――"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "In short distance races, Ms. Bakushin O \ngets a lot of great results… \nIt's, truly amazing."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Um, well, we're all rooting for you, so… \nKeep it up, okay!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "…",
+            "choice_data_list": [
+                "…Bakushin O"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "I know why we're doing this!!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "It's all so that I can work on my speed\nand make myself a winner on the Bakushin\nRoad."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Right??"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Yes, of course I am! \nSo, affirmative, all is well."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "I'm not suspicious at all, I'm not\nthinking \"Am I really being made into a\nsprinter!?\" or anything at all, so don't\nyou worry!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "I'm not even thinking, \"I haven't run \nin the same race as Ms. Rice and her \nfriends in a while…\"!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Come on, let's keep training! \nTo win every exemplary race there is!!"
+        },
+        {
+            "text": "…Right, it's all about winning. \nShe's not wrong. \n……That's the idea!!"
+        }
+    ]
+}

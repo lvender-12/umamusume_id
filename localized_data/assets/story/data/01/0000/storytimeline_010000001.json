@@ -1,0 +1,59 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "A certain day in a certain month \nat the Tokyo Racecourse"
+        },
+        {
+            "name": "???",
+            "text": "New Trainer-san!! I'm over here～!"
+        },
+        {
+            "name": "???",
+            "text": "The race track is busy today～! \nBe sure not to get lost."
+        },
+        {
+            "name": "???",
+            "text": "Well then, let me introduce myself."
+        },
+        {
+            "name": "Hayakawa Tazuna",
+            "text": "I'm Tazuna Hayakawa, and I'm the\nsecretary to the president of Tracen\nAcademy, and also in charge of\ninformation!",
+            "choice_data_list": [
+                "I look forward to working with you."
+            ],
+            "color_text_info_list": [
+                "Tracen Academy",
+                "Hayakawa",
+                "Tazuna"
+            ]
+        },
+        {
+            "name": "Hayakawa Tazuna",
+            "text": "Yes ♪ It's an honor to meet a promising \nnew trainer like you!"
+        },
+        {
+            "name": "Hayakawa Tazuna",
+            "text": "So let's get started with the school\nguide."
+        },
+        {
+            "name": "Hayakawa Tazuna",
+            "text": "First of all, please take a look, \nthe race is about to begin!"
+        },
+        {
+            "name": "Hayakawa Tazuna",
+            "text": "Look… can you hear it, those loud\ncheers!"
+        },
+        {
+            "text": "(Ahhhhhhhh!!!)"
+        },
+        {
+            "name": "Hayakawa Tazuna",
+            "text": "A race where horsegirls compete, which \npeople all over the world love…"
+        },
+        {
+            "name": "Hayakawa Tazuna",
+            "text": "It's the fanfare of the opening race, \nthe stage of your dreams, where you \nand your horsegirls will be going!"
+        }
+    ]
+}

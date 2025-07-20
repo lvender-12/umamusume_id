@@ -1,0 +1,84 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Sakura Bakushin O",
+            "text": "It's finally here… \nThis is the day!!!!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "It was a long, long… no, it \nwasn't. It was a short, short journey. \nBecause it was short distance races."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "But now is the time! \nThe finish line!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Today, in this Takamatsunomiya Kinen, \nI'll face Ms. Flower again!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "I'll want to win by a landslide, which \nmeans we should be aiming for a lead of \na thousand lengths!",
+            "choice_data_list": [
+                "A thousand!?"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "With that kind of overwhelming victory――"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "It'll be time to start Bakushin-ing to \nthe Tenno Sho and Arima Kinen!!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "So, from now on, I'll be able to compete\nin races other than short distance ones!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Isn't that right, Trainer!?",
+            "choice_data_list": [
+                "……Yeah",
+                "……Yeah"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "One more time!! \nYou can say it, can't you!?",
+            "choice_data_list": [
+                "Yeah!",
+                "Yeah!"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "I heard it from you, right here! \nWell, then, I'll be going!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Oh, Ms. Bakushin O. \nTo be with you again is really―"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "<i>Ms. Flower!!</i>"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Yes!?"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Today, I will risk my career as class \npresident to best you by 1000 lengths!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "1000!?"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Affirmative, 1000!! \nPlease, be prepared!!"
+        }
+    ]
+}

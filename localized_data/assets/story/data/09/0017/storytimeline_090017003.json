@@ -1,0 +1,249 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Winning Ticket",
+            "text": "Your letter's safe with me! It'll be in the \nneighboring district in no time! Safely, speedily!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "I'm baaack! And all my deliveries are dooone!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Right, then let's finish up the deliveries and errands in the \nsame direction! We'll have 17 requests to turn it at once!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "I'll take the far away ones! \nCan you two take the closer by ones?"
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "<i>Fununununuuu</i>～～～!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "That box looks heavy, Turbo…!! \nWant me to carry it?"
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "… Nooo probs! I know a shortcut and running is faster! \nThe weight just… <i>ehehe</i>… makes this more fun!!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Ahaha, that's great. I'll leave you to it then! \nSee ya later～!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "…… Close the valve… and hope this works…! \nHeck yeah, washer fixed!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "A superb display of skill, Taishin. Nice work."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Well, I <i>am</i> a mechanical engineer. And it's thanks to your advice \nthat I could increase its power, Hayahide."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "That technical book I borrowed from the workshop \ncertainly came in handy. Having an actual machine \nfor reference taught me a lot as well."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I hope to contribute to the airplane research with the knowle—"
+        },
+        {
+            "name": "Eatery Employee",
+            "text": "Airplane research? Oh, you're the kids I saw \nwith the girl from that workshop earlier."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Correct. We're helping out with her research."
+        },
+        {
+            "name": "Eatery Employee",
+            "text": "Huh? Aahahaha! Come now, you can't take that \nfantasy seriously! How do you intend to fly a lump of iron!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "But, she told us she has seen an iron airplane fly herself."
+        },
+        {
+            "name": "Eatery Employee",
+            "text": "Ah, the prototype of her predecessor in the workshop, eh? \nIt did look like it could maybe fly a little back then, \nbut it's been nothing but failures after that."
+        },
+        {
+            "name": "Eatery Employee",
+            "text": "So her predecessor eventually got frustrated and retired. \nI hope for her own sake the new girl can let it rest soon too."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Wha……?"
+        },
+        {
+            "name": "Eatery Employee",
+            "text": "We got trains, boats, cars… no one needs airplanes. \nShe's plenty smart, so why doesn't she just \nget a job at a vehicle company or something?"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "…………"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "……Your advice is appreciated. \nI think we will excuse ourselves here."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "The heck was that tone for? Telling people to find \na different job? Who does she think she is?"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "That person must be concerned in her own way. \nFlight experiments are risky, and seeing her push herself to \nthe point of collapse, I'm sure many would be concerned."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "And concern gives her the right to spout that crap!? \nCasually telling her to just give up…! …Pisses me off!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "There actually must be many difficulties in having \nan iron plane fly. Out of concern, she recommends \na path with much less frustrations."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "And I'm saying it's none of her business!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "But our researcher has not given up. I believe she can see a \npath to success. In other words, to make others understand―"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "… We have to show them. \nThat it can be done. The possibility."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Get them back by showing an iron plane fly…!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "―Exactly. That is what I intend as well. \nWho would listen to such a warning anyway."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "…… Oh look, you were pretty ticked off yourself, huh?"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Of course I was. \n—Either way, I believe we're done gathering funds for now."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "It's time for us to start helping with the research in earnest. \nCan we stop by the workshop first? I'd like to borrow \na few things for research."
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "<i>Huff… huff</i>… Heyas—! \nI gots a brand new machine here to replace your old one—!"
+        },
+        {
+            "name": "Workshop Seamstress",
+            "text": "Thanks! …Huh, you carried it yourself!? \nIt must be plenty heavy, you didn't use a truck?"
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "Turbo's faster than trucks! \nSo, where do I put it down?"
+        },
+        {
+            "name": "Workshop Seamstress",
+            "text": "Woaah～, it's so helpful that you can carry it! \nCould you leave it over there then?"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Hello! I left the foodstuffs you ordered in the back, \ncould you check them over, please?"
+        },
+        {
+            "name": "Eatery Employee",
+            "text": "Sure thing… wait, all 12 boxes!? \nYou got them all done? I imagine it took ya at least 3 trips."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Huh? I just carried them all at once?"
+        },
+        {
+            "name": "Eatery Employee",
+            "text": "My word! You must have some great balance, kid!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Hi hi! Thanks for entrusting me with your packages!! \nI'm done with all the deliveriieess!"
+        },
+        {
+            "name": "Client Of Delivery Requests",
+            "text": "Huh, already!? All the different places? \nEven the house at the foot of the mountain?"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Ehehe! I just skip along the rooftops like whoosh! \nIf you have any other packages I can deliver them too."
+        },
+        {
+            "name": "Client Of Delivery Requests",
+            "text": "No, I'm good for now. But you've certainly got a lot of energy. \nWhat makes you go that hard?"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Actually, we're raising money for research! \nOn iron planes!!"
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "Turbo's friends are helping to build a new plane! \nIsn't that great?!"
+        },
+        {
+            "name": "Client Of Delivery Requests",
+            "text": "An airplane!? You're building something that dangerous? \nOh I wouldn't! You'll get more than hurt when it crashes!"
+        },
+        {
+            "name": "Client Of Delivery Requests",
+            "text": "There was a failed experiment with a prototype \nairplane before too. And I heard that one of \nthe two researchers quit after that."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Quit…? You mean the previous researcher?"
+        },
+        {
+            "name": "Client Of Delivery Requests",
+            "text": "Yeah. He must've gotten so scared that he couldn't \nstand to look at planes anymore… The old wreck's still \nout there, untouched and weathered."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Eeeeeeeh!? \nThey just left it there!?"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "―This adjustment could take some time…… \nSorry, but you'll have to wait a while."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Sure, I don't mind. I'm reading through \nold research so take your time."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "…… I see, the iron couldn't stand up to the increase in \ninternal pressure… So they changed material for the next one. \n… Oh, here's the formula."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "They've redone their output calculations many times \nto find the materials they needed. And there are detailed \nnotes regarding the problems found in tests flights…!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "—They never stopped believing. That it would fly every time \nthey squashed a problem. And they did in fact come within \na hair's breadth of crossing the mountains!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "That's how far they had come! \n… We cannot let this predecessor's hard work be in vain."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "This airframe is the culmination of its \nprevious researcher's efforts―!"
+        }
+    ]
+}

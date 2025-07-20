@@ -1,0 +1,189 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "name": "Daiichi Ruby",
+            "text": "Today we have prepared three types of tea leaves. \nAssam, Dimbula, and Lapsang Souchong for flavor."
+        },
+        {
+            "name": "Daiichi Ruby",
+            "text": "All of them are highly aromatic, \nIt has an elegant taste suitable for everyone."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Thank you for having me. \nNot only the tea, but also the \ntea foods have wonderful colors."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Yes. Your pastries sparkling under the sunlight, \nthey look as beautiful as jewels."
+        },
+        {
+            "text": "A table manners test. There is a single person \nwho is out of place at the \"tea party of the young ladies\" \nthat is unfolding before my eyes.",
+            "choice_data_list": [
+                "A-ah, yes…"
+            ]
+        },
+        {
+            "text": "I am the only trainer here. The other is nowhere \nto be seen. I'm sure the other are taking the test \nin another place, or on another day."
+        },
+        {
+            "text": "I don't think I'll ever get used to this unique \natmosphere. I was so nervous that I drank all \nmy tea without a second thought.",
+            "choice_data_list": [
+                "(Let's get a refill… ah)"
+            ]
+        },
+        {
+            "name": "Daiichi Ruby",
+            "text": "…………"
+        },
+        {
+            "text": "This tea party is hosted by Daiichi Ruby. \nThe act of pouring for yourself is…",
+            "choice_data_list": [
+                "Ahem, what a splendid tea ceremony…"
+            ]
+        },
+        {
+            "text": "……I feel like this way of saying it is not right, \nbut the act of pouring it yourself must have \ndefinitely been a violation of manners."
+        },
+        {
+            "name": "Daiichi Ruby",
+            "text": "……Thank you very much."
+        },
+        {
+            "text": "With that, Daiichi Ruby pours me another cup of tea. \n……But that feeling relief was short-lived――"
+        },
+        {
+            "name": "Ruby's butler",
+            "text": "Ladies, it's time for dinner. \nThe car will pick you up over there.",
+            "choice_data_list": [
+                "Dinner?"
+            ]
+        },
+        {
+            "name": "Daiichi Ruby",
+            "text": "Yes. It is also the venue for the next test. \nNow, let's go."
+        },
+        {
+            "text": "I was brought to a place I had never been before, \na luxury cruise ship that I had only seen in photographs.",
+            "choice_data_list": [
+                "(What am I supposed to do in a place like this?)"
+            ]
+        },
+        {
+            "text": "It almost make me panic. ―but."
+        },
+        {
+            "name": "Daiichi Ruby",
+            "text": "I was deeply moved when I read your work \n\"Dignity Spoken to the Present Day\". In particular, \nthe \"continuation'' that is the proposition of chapter 2―"
+        },
+        {
+            "name": "Classy woman",
+            "text": "―Ahh, I'm glad you noticed that. \nThat part is exactly like your grandmother and mother."
+        },
+        {
+            "name": "Classy woman",
+            "text": "The glorious history she left behind as a Horse girl… \nthe glory of her family. So Ruby-san, \nyou understand what I mean right?"
+        },
+        {
+            "name": "Daiichi Ruby",
+            "text": "Of course. From now on, our family will continue \nto unwaveringly continue its glory."
+        },
+        {
+            "name": "Daiichi Ruby",
+            "text": "I have heard from my mother about your \ncutting-edge activities. I also, \nhave learned much from you―"
+        },
+        {
+            "name": "Men in suits",
+            "text": "―Hoho, I'm honored to hear you say that far. \nHowever, compared to your grandmothers achievement, \nI still have a long way to go."
+        },
+        {
+            "name": "Men in suits",
+            "text": "A great horse girl who boasts not only the URA award \nbut also many other honors. That brilliance passed from \nyour grandmother to your mother and now to you."
+        },
+        {
+            "name": "Men in suits",
+            "text": "We have high hopes for you, Lady Daiichi Ruby."
+        },
+        {
+            "text": "Daiichi Ruby stands proudly unwaveringly in front \nof the heavy pressure of the business world. \n……completely different from myself.",
+            "choice_data_list": [
+                "……Amazing"
+            ]
+        },
+        {
+            "text": "If you look around, you will see numerous eyes \nfollowing her… Inside of them, it contain a \ngreat expectation for her Noble family."
+        },
+        {
+            "text": "How much pressure would that be? \nNo matter how calm she may look, \nshe must be under a lot of pressure."
+        },
+        {
+            "text": "And yet, how can you still look so dignified――"
+        },
+        {
+            "name": "Daiichi Ruby",
+            "text": "…Lift your face. If you're going to do \nsomething, always do it with dignity."
+        },
+        {
+            "name": "Daiichi Ruby",
+            "text": "Do you have anything to be ashamed of? If not, \nyou should be the best you can be, stand tall, \nand look straight ahead."
+        },
+        {
+            "text": "\"If you have something to aspire to, then behave \naccordingly. That is what will eventually \ntransforms you into who you aspire to be.\""
+        },
+        {
+            "text": "…I see, so that's what she mean."
+        },
+        {
+            "name": "Daiichi Ruby",
+            "text": "Be brilliant. Be supreme. Always shine the brightest. \nThat is my family's motto… therefore"
+        },
+        {
+            "name": "Daiichi Ruby",
+            "text": "There is no way I will ever betray your expectations."
+        },
+        {
+            "text": "Before I knew it, I couldn't take my eyes off Daiichi Ruby, \nwho had declare her will straight forwardly."
+        },
+        {
+            "name": "Daiichi Ruby",
+            "text": "Good job for today. Well then, I still have training, \nso please excuse me.",
+            "choice_data_list": [
+                "At this time!?"
+            ]
+        },
+        {
+            "name": "Daiichi Ruby",
+            "text": "Yes. You are free to go home. \nFor tomorrow's test―",
+            "choice_data_list": [
+                "Is there anything I can help you with!?"
+            ]
+        },
+        {
+            "text": "I said it without thinking. I may not be a trainer \nworthy of a Daiichi Ruby, that's my honest thought \nafter going through so many test."
+        },
+        {
+            "text": "However, when I think about the burden she's \ncarrying. I can't help but thinking, \nI wish I could be of some help…"
+        },
+        {
+            "name": "Daiichi Ruby",
+            "text": "There is nothing in particular.",
+            "choice_data_list": [
+                "How about measuring the time!"
+            ]
+        },
+        {
+            "name": "Daiichi Ruby",
+            "text": "…………",
+            "choice_data_list": [
+                "Ah… I want to measure your time!!"
+            ]
+        },
+        {
+            "name": "Daiichi Ruby",
+            "text": "…Do as you wish."
+        },
+        {
+            "text": "I felt something changed inside me that day. \nDaiichi Ruby's words may have been the trigger."
+        }
+    ]
+}

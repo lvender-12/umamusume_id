@@ -1,0 +1,168 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "That was when I first met that Uma Musume――\nOn a cloudy day on that tree-lined street."
+        },
+        {
+            "text": "Hmmmm, looks like today……I won't be able to see it.",
+            "name": "Sakura Laurel"
+        },
+        {
+            "text": "She seemed to be looking in to the sky, looking for something. \nShe almost felt ephemeral, but she still left an impression――",
+            "choice_data_list": [
+                "Excuse me……!"
+            ]
+        },
+        {
+            "text": "Yes!? Ah, I'm sorry! \nI was blocking the middle of the road, wasn't I?",
+            "name": "Sakura Laurel"
+        },
+        {
+            "text": "Ah, that badge…… You're a trainer, aren't you!? \nWe're always in your care♪",
+            "name": "Sakura Laurel"
+        },
+        {
+            "text": "In our care? Does that mean……?",
+            "choice_data_list": [
+                "Do you already have a trainer?",
+                "Do you already have a trainer?"
+            ]
+        },
+        {
+            "text": "Well, I……don't have one yet. \nBecause――",
+            "name": "Sakura Laurel"
+        },
+        {
+            "text": "I can't really run!",
+            "name": "Sakura Laurel"
+        },
+        {
+            "text": "――An Uma Musume that can't run. I don't know \nthe reason, but she……was saying a rather negative \nthing with a bright smile on her face."
+        },
+        {
+            "text": "――Several days later. There was a Mock race being \nheld at Tracen Academy. And participating in it were……"
+        },
+        {
+            "text": "Ha, Brian! It's been a while since our last contest, huh? \nI've been waiting for this moment! It's a showdown!!",
+            "name": "Hishi Amazon"
+        },
+        {
+            "text": "Hmmm, so you're aiming for me, Ama-san. See if you \ncan fulfill even a little of――this desire of mine.",
+            "name": "Narita Brian"
+        },
+        {
+            "text": "――A clash between dragon and tiger. They had not debuted yet, \nbut they were considered part of the strongest class. The \nunparalleled \"Narita Brian\" and the dorm leader \"Hishi Amazon\"."
+        },
+        {
+            "text": "The raceground was crowded with a large number \nof spectators due to this outstanding matchup……"
+        },
+        {
+            "text": "Waah~, I wonder who will win? \nBrian-chan and Hishi Ama-chan are both really fast and strong!",
+            "name": "Sakura Laurel"
+        },
+        {
+            "text": "Ah! You're that trainer from before……! \nHey, which one do you think will win?",
+            "name": "Sakura Laurel"
+        },
+        {
+            "text": "In the audience was that Uma Musume I met before on \nthat tree-lined street. The Uma Musume who \"can't run\"."
+        },
+        {
+            "text": "The excitement of the crowd reached its peak. The curtain \nrose on a fierce competition with many spectators."
+        },
+        {
+            "text": "Huuu……!!",
+            "name": "Narita Brian"
+        },
+        {
+            "text": "Kuu――!? Just by putting in a little \neffort you can pull this far ahead!?",
+            "name": "Hishi Amazon"
+        },
+        {
+            "text": "I won't lose! I won't let you beat me!! \nOooooooooooh!!",
+            "name": "Hishi Amazon"
+        },
+        {
+            "text": "Not enough……this isn't enough……to satisfy my desire……",
+            "name": "Narita Brian"
+        },
+        {
+            "text": "More……I need more……! \nHaaa……!!",
+            "name": "Narita Brian"
+        },
+        {
+            "text": "Brian-chan……is amazing……",
+            "name": "Sakura Laurel"
+        },
+        {
+            "text": "The result was Narita Brian's victory. Hishi \nAmazon desperately tried to hang on……but ultimately \nended somewhat behind in 2nd place."
+        },
+        {
+            "text": "Ah, damnit!! To think you'd pull that far ahead!! \nHeh, trying to show that I'm not a worthy opponent, huh?",
+            "name": "Hishi Amazon"
+        },
+        {
+            "text": "――That's not the case. Right now, the only one that \ncan even slightly fulfill my desire is you, Ama-san.",
+            "name": "Narita Brian"
+        },
+        {
+            "text": "Haha, slightly, huh? I don't know whether to be happy or pissed. \nIs there nobody besides me that can fufill that desire?",
+            "name": "Hishi Amazon"
+        },
+        {
+            "text": "……There isn't.",
+            "name": "Narita Brian"
+        },
+        {
+            "text": "Certainly――she was overwhelming. Narita Brian walked \naway from the turf, but with a certain air of emptiness……"
+        },
+        {
+            "text": "Congratulations, Brian-chan!",
+            "name": "Sakura Laurel"
+        },
+        {
+            "text": "……Yeah.",
+            "name": "Narita Brian"
+        },
+        {
+            "text": "She left after just a quick glance. I doubted she \neven recognized the Uma Musume who spoke to her."
+        },
+        {
+            "text": "She's amazing, isn't she!? Brian-chan. By just putting \nin a little effort, she's able to pull away that far……",
+            "name": "Sakura Laurel"
+        },
+        {
+            "text": "And from now on, to think she's going to get even \nstronger……she won't lose to anyone! Being able to \nrun like that, she's really amazing, isn't she?",
+            "name": "Sakura Laurel"
+        },
+        {
+            "text": "That was the gaze of someone that was star-struck. \nIt was almost like she was……",
+            "choice_data_list": [
+                "You're……Narita Brian's fan?",
+                "You're……Narita Brian's fan?"
+            ]
+        },
+        {
+            "text": "I couldn't help but ask. Was this Uma Musume who \ncouldn't run entrusting her dreams to Narita Brian?"
+        },
+        {
+            "text": "Fan……? I wouldn't say I'm a fan. \nJust cheering for her feels kind of distant. I am――",
+            "name": "Sakura Laurel"
+        },
+        {
+            "text": "What was she going to say? \"Aspiration\" \"Goal\" \"Acquaintance\". \nSeveral words came to mind. but, the words she chose……"
+        },
+        {
+            "text": "I am――the Uma Musume who will win \nagainst that unbeatable Brian-chan!",
+            "name": "Sakura Laurel"
+        },
+        {
+            "text": "……Laurel. \nI'm Sakura Laurel♪",
+            "name": "Sakura Laurel"
+        },
+        {
+            "text": "――With those words, a breeze blew past. \nAnd a single cherry blossom petal swirled around me."
+        }
+    ]
+}

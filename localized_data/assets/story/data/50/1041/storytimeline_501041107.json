@@ -1,0 +1,228 @@
+{
+    "no_wrap": true,
+    "text_block_list": [
+        {
+            "text": "One day in February, \nI was working as usual when――"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Knock, knock! \nExcuse me!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "And once again, excuse me!"
+        },
+        {
+            "text": "…… \nI wonder what that was."
+        },
+        {
+            "text": "(knocknocknocknocknock!)"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Trainer-san!? \nWhy aren't you following me!?",
+            "choice_data_list": [
+                "Huh?"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Come on, let's go!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Bakushinbakushiiiin!!"
+        },
+        {
+            "text": "Not knowing what to expect, I followed \nher to the park, and found……"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Now, please, take this!",
+            "choice_data_list": [
+                "Thanks…?"
+            ]
+        },
+        {
+            "text": "She handed me a pretty package. \nWhat on earth is this…?"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Happy Valentine's Day, Trainer-san!",
+            "choice_data_list": [
+                "Huuuh?!"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Why are you surprised!?",
+            "choice_data_list": [
+                "Do you even know what Valentine's Day is?"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Naturally! It's the day to give\nchocolate to those who have been good\nto us!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Every year, my classmates bring in a\nvariety of sweets and we have a blast!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Similarly, I've received a lot of\nsweets, too! I'm quite popular, aren't\nI!",
+            "choice_data_list": [
+                "Well, maybe so."
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Maybe!?"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Ahem! \nWell, that's all well and good!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "However, I'm the class president! It's a\nno-go to take the initiative to hand out\ncandy on campus!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "So I, using my brilliant mind, have\ndecided that as long as it's off campus,\nit's OK!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "So, I tried my hand at making some \nchocolates!",
+            "choice_data_list": [
+                "You made these yourself?",
+                "You made these yourself?"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Of course! \nHomemade is exemplary for these kinds of \nthings, right?"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "I demonstrated such superior cooking\nability to my home economics teacher\nthat she said,\"I'll give you credit for\nthe class, just don't do anything else!\""
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Well, in the end I managed to remove\nthe debris and beat out the chunks of\nchocolate, so you can eat it!",
+            "choice_data_list": [
+                "(Is that really chocolate?)",
+                "(Is that really chocolate?)"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "I'm not exactly used to Valentine's Day, \nbut…… \nI reaaaaally wanted to give this to you!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Because Trainer-san is the one who \nhelped me achieve my dream.",
+            "choice_data_list": [
+                "Huh……"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "I still understand this much. \nI know how big my dream is."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "But I also know that with my superior\nspeed, there's no way I can't make it\ncome true."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "But truthfully, you were the only person \noutside of my family who understood.",
+            "choice_data_list": [
+                "Bakushin O…"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "What am I saying! \nFufu, you already understand, don't you, \nTrainer-san!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Anyways, please enjoy this token of my \ngratitude!"
+        },
+        {
+            "text": "I really appreciate her sentiment, but I\ncan't help but feel a little embarrassed\nwhen I have to reiterate my trust in\nher…",
+            "choice_data_list": [
+                "…Do you like chocolate?",
+                "…Do you like chocolate?"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Indubitably, I do!",
+            "choice_data_list": [
+                "Let's go get chocolate fondue!",
+                "Let's go get chocolate fondue!"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Are you sure!?"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "I see, a reverse Valentine's Day! \nThen, I'd love to go, Bakushin-style!!"
+        },
+        {
+            "text": "Afterwards, I took her to a restaurant\nthat served chocolate fondue, and\nwas relieved to see her looking quite\nsatisfied."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Come on, come on, right here, right now!",
+            "choice_data_list": [
+                "Here?!"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Of course! Take a bite and let me hear \nyou say \"Mmm, that's delicious\"!"
+        },
+        {
+            "text": "…As expected…. I'll have to eat it right\nhere, right now….!",
+            "choice_data_list": [
+                "―Here I go!!"
+            ]
+        },
+        {
+            "text": "(Crunch….munch, crunch)"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Ohh! It's got the perfect crunch! How\nabout the taste?"
+        },
+        {
+            "text": "… Tires? Tires, dirt, a hint of grass?\nAt any rate, it has a very unique taste\nthat can't be called chocolate…",
+            "choice_data_list": [
+                "…Natural-tasting and delicious!"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Is that so!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Naturally, I knew it would be delicious\nsince I was the one making it, but\ntruthfully, I was a little worried."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "I'm not as good at cooking as I am\nat running, but it still turned out\ndelicious. Is that so…"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Ehehe, I'm so glad!"
+        },
+        {
+            "text": "I was able to see that smile. That alone \nmade for a great Valentine's Day…… \nI… think."
+        }
+    ]
+}
