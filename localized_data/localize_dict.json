@@ -252,7 +252,7 @@
     "Common0166": "$(nb) balapan menang: {1}/{0}",
     "Common0168": "{0:D2}:{1:D2} tersisa",
     "Common0170": "unduh",
-    "Common0186": "<size=34>Suppoca</size>",
+    "Common0186": "$(scale 80)Suppoca",
     "Common0187": "Develop",
     "Common0194": "fans",
     "Common0203": "jarak $(nb)",
