@@ -96,3 +96,13 @@ Terima kasih sudah mampir 🙌
 ## 👨‍💻 Developer
 Project by: **lvender**  
 GitHub: [lvender](https://github.com/lvender-12)
+
+---
+
+## 🎥 TikTok Saya
+
+Untuk info update Uma Musume ID Patch atau melaporkan kesalahan terjemahan, bisa langsung cek TikTok saya: [@lvender14](https://www.tiktok.com/@lvender14)
+
+[![TikTok](https://img.shields.io/badge/TikTok-@lvender14-red?logo=tiktok)](https://www.tiktok.com/@lvender14)
+
+
