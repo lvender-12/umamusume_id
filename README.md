@@ -76,7 +76,7 @@ Ini akan mempercepat proses patching dan menghindari error.
 
 ## ⚠️ Informasi Penting
 
-- Tidak semua teks diterjemahkan, karena ada bagian sensitif seperti kode sistem (contoh: `${0}`), nama skill, ataupun teks unik.
+- Tidak semua teks diterjemahkan seperti, nama skill, ataupun teks unik.
 - Proyek ini bersifat open-source dan tidak dijamin selalu update.
 - Jika ingin membantu kontribusi, silakan pull request!
 
