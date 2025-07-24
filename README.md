@@ -7,50 +7,75 @@ Project ini dibuat dengan tujuan memudahkan player menikmati Uma Musume dengan b
 
 ## 🚀 Cara Install Patch
 
+> ❗ **PERHATIAN:**  
+> Jika kamu **sudah menginstall Uma Musume JP**, **sudah memodifikasinya menggunakan Uma Patcher ke bahasa Inggris**, dan **sudah download semua data game**, maka kamu bisa langsung **lewati langkah 1–3** di bawah ini.  
+> Lanjut ke bagian **"Cara Memasang Patch Bahasa Indonesia"**.
+
+---
+
 ### 1. Install Uma Musume JP Server
-Pastikan kalian sudah menginstall Uma Musume server JP. Bisa via **DMM** (PC) atau **Android**.
+
+Pastikan kalian sudah menginstall Uma Musume server JP. Bisa via **DMM (PC)** atau **Android**.
 
 ---
 
 ### 2. Install Uma Patcher
+
 Modifikasi game kalian menggunakan **Uma Patcher**.
 
 📥 **Download Uma Patcher di sini**:
 - [GitHub Hachimi](https://github.com/Hachimi-Hachimi/Hachimi)
 - [Official Hachimi Docs](https://hachimi.leadrdrk.com/docs/hachimi/getting-started.html)
 
-📺 **Tutorial Video (rekomendasi)**:
+📺 **Tutorial Video (rekomendasi)**:  
 [YouTube Tutorial Uma Patcher](https://youtu.be/Q03Qn06I6TA?si=2TD8q88YPhta-UKZ)
 
 ---
 
 ### 3. Download Semua Data Game
-Setelah patcher terpasang, **login ke game dan unduh semua data** terlebih dahulu. Ini akan mempercepat proses patching.
+
+Setelah patcher terpasang, **login ke game dan unduh semua data** terlebih dahulu.  
+Ini akan mempercepat proses patching dan menghindari error.
 
 ---
 
-### 4. Download Patch Indo dari Repository Ini
+## 🔧 Cara Memasang Patch Bahasa Indonesia
 
-> ❗ **Jika kalian sudah punya Uma Musume JP yang sudah dimod menggunakan Uma Patcher, kalian bisa langsung lanjut ke langkah ini tanpa perlu ulangi langkah 1-3!**
-> 
-> **Tidak perlu menghapus ulang game atau menginstal ulang Uma Patcher**, cukup tempelkan patch dari repo ini.
+1. **Download Patch Indo dari Repository Ini**
+   - Klik tombol **Code > Download ZIP** di halaman repo ini.
+   - Ekstrak file ZIP-nya.
 
-- Klik tombol **Code > Download ZIP**
-- Ekstrak hasilnya
-- Copy folder `localized_data` dari repo ini
-- **Paste ke path berikut:**  
-  `android/media/jp.co.cygames.umamusume/hachimi/`
-- Sebelum di replace pastikan buat backup dahulu untuk jaga jaga jika replace tidak berhasil
-- Replace file `localized_data` yang lama dengan file dari patch ini
+2. **Backup Folder Lama**
+   - Masuk ke folder:
+     ```
+     android/media/jp.co.cygames.umamusume/hachimi/
+     ```
+   - Di sana ada folder bernama `localized_data`.  
+     Silakan backup dulu folder tersebut ke tempat aman, untuk jaga-jaga jika patch tidak berhasil atau ingin kembali ke versi sebelumnya.
+
+3. **Pasang Patch Indonesia**
+   - Copy folder `localized_data` dari hasil ekstrak ZIP tadi.
+   - Tempelkan ke folder:
+     ```
+     android/media/jp.co.cygames.umamusume/hachimi/
+     ```
+   - Jika diminta untuk replace/menimpa, pilih **Replace**.
+   - Jika ada file `README.md` ikut terbawa dari ZIP, silakan **hapus saja** agar tidak mengganggu tampilan folder.
+
+4. **Login ke Game**
+   - Buka game Uma Musume JP seperti biasa.
+   - Jika berhasil, maka teks-teks akan terganti menjadi Bahasa Indonesia!
 
 ---
 
 ### 5. Enjoy the Game 🎮
+
 ✅ Patch selesai, buka game & nikmati Uma Musume JP dalam Bahasa Indonesia!
 
 ---
 
 ## ⚠️ Informasi Penting
+
 - Tidak semua teks diterjemahkan, karena ada bagian sensitif seperti kode sistem (contoh: `${0}`), nama skill, ataupun teks unik.
 - Proyek ini bersifat open-source dan tidak dijamin selalu update.
 - Jika ingin membantu kontribusi, silakan pull request!
@@ -58,12 +83,14 @@ Setelah patcher terpasang, **login ke game dan unduh semua data** terlebih dahul
 ---
 
 ## 💬 Kenapa Masih Ada yang Belum Terjemah?
+
 Karena translasi manual memakan waktu lama, banyak placeholder sensitif, dan… ya… kadang saya juga **malas**. 😅  
 Tapi project ini akan selalu terbuka untuk yang mau bantu kontribusi!
 
 ---
 
 ## ❗ Warning Tambahan
+
 Beberapa teks mungkin masih menggunakan bahasa Jepang karena saya hanya menerjemahkan teks yang sudah disediakan atau yang telah di-translate ke bahasa Inggris oleh pihak **Hachimi**.  
 Jika pihak Hachimi melakukan update ke versi terbaru, saya akan usahakan untuk melakukan update patch juga.
 
@@ -84,6 +111,7 @@ Metode semi-otomatis ini saya gunakan agar translasi bisa berjalan **cepat tapi 
 ---
 
 ## 🌟 Support Project Ini
+
 Kalau menurutmu patch ini membantu:
 - Beri **⭐ Star** di GitHub
 - Share ke teman-teman Uma Musume-mu
@@ -94,6 +122,7 @@ Terima kasih sudah mampir 🙌
 ---
 
 ## 👨‍💻 Developer
+
 Project by: **lvender**  
 GitHub: [lvender](https://github.com/lvender-12)
 
@@ -104,5 +133,3 @@ GitHub: [lvender](https://github.com/lvender-12)
 Untuk info update Uma Musume ID Patch atau melaporkan kesalahan terjemahan, bisa langsung cek TikTok saya: [@lvender14](https://www.tiktok.com/@lvender14)
 
 [![TikTok](https://img.shields.io/badge/TikTok-@lvender14-red?logo=tiktok)](https://www.tiktok.com/@lvender14)
-
-
